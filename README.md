@@ -1,4 +1,4 @@
-## Stephen Damian - PHP & Laravel Developer
+# Stephen Damian - PHP & Laravel Developer
 
 [![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo.webp)](https://github.com/s-damian)
 
