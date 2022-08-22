@@ -20,7 +20,6 @@ Passionate, I also developed my MVC framework from A to Z:
 | PostgreSQL 14 | Bootstrap 5 | Zero Downtime   | Certbot       |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
-[![Composer](https://raw.githubusercontent.com/s-damian/medias/main/technos/composer.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
