@@ -4,14 +4,14 @@
 
 > 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 
-### My Framework:
+### My Framework
 
 For professional projects, like PHP Framework I use **Laravel**.
 
 Passionate, I also developed my MVC framework from A to Z:
 [Damian PHP Framework](https://github.com/s-damian/damian-php)
 
-### My Skills:
+### My Skills
 
 | Back-End      | Front-End   | Admin Sys       | Various       |
 |:-------------:|:-----------:|:---------------:|:-------------:|
@@ -29,7 +29,7 @@ Passionate, I also developed my MVC framework from A to Z:
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
-### My Social Medias:
+### My Social Medias
 
 | | Name | URL |
 |:-------------:|:-----------:|:---------------:|
