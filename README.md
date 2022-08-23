@@ -2,6 +2,8 @@
 
 [![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo.webp)](https://github.com/s-damian)
 
+PHP Laravel Developer - 100% Custom Web App & LEMP Server & Zero Downtime Deployment
+
 ### My Framework:
 
 For professional projects, like PHP Framework I use **Laravel**.
@@ -31,6 +33,7 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | | Name | URL |
 |:-------------:|:-----------:|:---------------:|
-| [![Stephen Damian - LinkedIn](https://raw.githubusercontent.com/s-damian/medias/main/favicon-linkedin.png)](https://www.linkedin.com/in/stephen-damian/) | My LinkedIn | [Stephen Damian - LinkedIn](https://www.linkedin.com/in/stephen-damian/) |
-| [![Stephen Damian - GitHub](https://raw.githubusercontent.com/s-damian/medias/main/favicon-github.png)](https://github.com/s-damian)                     | My GitHub | [Stephen Damian - GitHub](https://github.com/s-damian) |
-| [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-devandweb-com.png)](https://www.devandweb.com/)              | My Website | [Stephen Damian - Website](https://www.devandweb.com/) |
+| [![Stephen Damian - LinkedIn](https://raw.githubusercontent.com/s-damian/medias/main/favicon-linkedin.png)](https://www.linkedin.com/in/stephen-damian/) | My LinkedIn       | [Stephen Damian - LinkedIn](https://www.linkedin.com/in/stephen-damian/) |
+| [![Stephen Damian - GitHub](https://raw.githubusercontent.com/s-damian/medias/main/favicon-github.png)](https://github.com/s-damian)                     | My GitHub         | [Stephen Damian - GitHub](https://github.com/s-damian) |
+| [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-devandweb-com.png)](https://www.devandweb.com/)              | My Website **en** | [Stephen Damian - Website](https://www.devandweb.com/) |
+| [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-devandweb-com.png)](https://www.devandweb.com/)              | My Website **fr** | [Stephen Damian - Website](https://www.devandweb.fr/) |
