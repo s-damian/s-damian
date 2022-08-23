@@ -2,7 +2,7 @@
 
 [![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo.webp)](https://github.com/s-damian)
 
-PHP Laravel Developer - 100% Custom Web App & LEMP Server & Zero Downtime Deployment
+> 100% Custom Web App & LEMP Server & Zero Downtime Deployment
 
 ### My Framework:
 
