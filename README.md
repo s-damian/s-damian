@@ -27,6 +27,7 @@ Passionate, I also developed my MVC framework from A to Z:
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
 [![Ubuntu](https://raw.githubusercontent.com/s-damian/medias/main/technos/ubuntu.webp)](https://github.com/s-damian)
+[![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
 ### My Social Medias
