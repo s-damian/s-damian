@@ -13,20 +13,20 @@ Passionate, I also developed my MVC framework from A to Z:
 
 ### My Skills
 
-| Back-End      | Front-End   | Admin Sys       | Various       |
-|:-------------:|:-----------:|:---------------:|:-------------:|
-| PHP 8.1       | HTML        | Debian & Ubuntu | PHPUnit       |
-| Laravel 9     | CSS         | Nginx & Apache  | PSR standards |
-| MySQL         | React JS 18 | Ansible         | PHPStan       |
-| MariaDB 10.7  | Next.js  12 | Laravel Envoy   | PHP CS Fixer  |
-| PostgreSQL 14 | Bootstrap 5 | Zero Downtime   | Certbot       |
+| Back-End      | Front-End   | Admin Sys       |
+|:-------------:|:-----------:|:---------------:|
+| PHP 8.1       | HTML        | Debian & Ubuntu |
+| Laravel 9     | CSS         | Nginx & Apache  |
+| MySQL         | React JS 18 | Ansible         |
+| MariaDB 10.7  | Next.js  12 | Laravel Envoy   |
+| PostgreSQL 14 | Bootstrap 5 | Zero Downtime   |
+| PHPUnit       | W3C         | Certbot         |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
 [![Ubuntu](https://raw.githubusercontent.com/s-damian/medias/main/technos/ubuntu.webp)](https://github.com/s-damian)
-[![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
 ### My Social Medias
