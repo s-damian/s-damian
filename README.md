@@ -17,10 +17,10 @@ Passionate, I also developed my MVC framework from A to Z:
 |:-------------:|:-----------:|:---------------:|
 | PHP 8.1       | HTML        | Debian & Ubuntu |
 | Laravel 9     | CSS         | Nginx & Apache  |
-| MySQL         | React JS 18 | Ansible         |
-| MariaDB 10.7  | Next.js  12 | Laravel Envoy   |
-| PostgreSQL 14 | Bootstrap 5 | Zero Downtime   |
-| PHPUnit       | W3C         | Certbot         |
+| MySQL         | Next.js  12 | Ansible         |
+| MariaDB 10.7  | React JS 18 | Laravel Envoy   |
+| PostgreSQL 14 | Vue.js 3    | Zero Downtime   |
+| PHPUnit       | Bootstrap 5 | Certbot         |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
