@@ -15,10 +15,10 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Back-End      | Front-End   | Admin Sys       |
 |:-------------:|:-----------:|:---------------:|
-| PHP 8.1       | HTML        | Debian 11       |
-| Laravel 9     | CSS         | Ubuntu 22       |
-| MySQL         | Next.js  13 | Nginx & Apache  |
-| MariaDB 10.7  | React JS 18 | Ansible         |
+| PHP 8.1       | HTML 5.1    | Debian 11       |
+| Laravel 9     | CSS 3       | Ubuntu 22       |
+| MySQL         | React JS 18 | Nginx & Apache  |
+| MariaDB 10.7  | Next.js  13 | Ansible         |
 | PostgreSQL 15 | Vue.js 3    | Laravel Envoy   |
 | PHPUnit       | Bootstrap 5 | Certbot         |
 
