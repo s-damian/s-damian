@@ -1,4 +1,4 @@
-# Stephen Damian - PHP & Laravel Developer
+# Stephen Damian - Laravel & React JS Developer
 
 [![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo.webp)](https://github.com/s-damian)
 
@@ -15,11 +15,11 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Back-End      | Front-End   | Admin Sys       |
 |:-------------:|:-----------:|:---------------:|
-| PHP 8.1       | HTML 5.1    | Debian 11       |
-| Laravel 9     | CSS 3       | Ubuntu 22       |
-| MySQL         | React JS 18 | Nginx & Apache  |
-| MariaDB 10.9  | Next.js  13 | Ansible         |
-| PostgreSQL 15 | Vue.js 3    | Laravel Envoy   |
+| PHP 8.1       | React JS 18 | Debian 11       |
+| Laravel 9     | Next.js 13  | Ubuntu 22       |
+| MySQL         | Vue.js 3    | Nginx & Apache  |
+| MariaDB 10.9  | HTML 5.1    | Ansible         |
+| PostgreSQL 15 | CSS 3       | Laravel Envoy   |
 | PHPUnit       | Bootstrap 5 | Certbot         |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
