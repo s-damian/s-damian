@@ -1,6 +1,6 @@
-# Stephen Damian - Laravel & React JS Developer
+# Full-Stack Developer - Laravel / React JS / Vue.js
 
-[![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo.webp)](https://github.com/s-damian)
+[![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
 > 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 
