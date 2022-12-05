@@ -37,6 +37,14 @@ Passionate, I also developed my MVC framework from A to Z:
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 
+### PHP packages
+
+| Name | URL |
+|:---------:|:---------:|
+| Damian Pagination PHP | [PHP Pagination Library](https://github.com/s-damian/damian-pagination-php) |
+| Damian PHP Framework - Skeleton | [Damian PHP Framework - Skeleton](https://github.com/s-damian/damian-php) |
+| Damian PHP Framework - Kernel | [Damian PHP Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
+
 ### CRUD examples
 
 | Framework | URL |
