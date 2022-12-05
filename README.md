@@ -30,14 +30,14 @@ Passionate, I also developed my MVC framework from A to Z:
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
-### Laravel packages
+### Laravel Packages
 
 | Name | URL |
 |:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 
-### PHP packages
+### PHP Packages
 
 | Name | URL |
 |:----:|:---:|
@@ -45,7 +45,7 @@ Passionate, I also developed my MVC framework from A to Z:
 | Damian PHP Framework - Skeleton | [Damian PHP Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian PHP Framework - Kernel | [Damian PHP Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
-### CRUD examples
+### CRUD Examples
 
 | Framework | URL |
 |:---------:|:---:|
@@ -57,7 +57,7 @@ Passionate, I also developed my MVC framework from A to Z:
 |:----:|:---:|
 | Ansible Playbook | [Ansible - Web Server Nginx / Apache](https://github.com/s-damian/ansible-web-server-debian) |
 
-### PHP best practices
+### PHP Best Practices
 
 | Name | URL |
 |:----:|:---:|
