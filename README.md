@@ -13,14 +13,14 @@ Passionate, I also developed my MVC framework from A to Z:
 
 ### My Skills
 
-| Back-End      | Front-End   | Admin Sys       |
-|:-------------:|:-----------:|:---------------:|
-| PHP 8.1       | React JS 18 | Debian 11       |
-| Laravel 9     | Next.js 13  | Ubuntu 22       |
-| Symfony 6     | Vue.js 3    | Nginx           |
-| MySQL         | HTML 5.1    | Apache          |
-| MariaDB 10.9  | CSS 3       | Ansible         |
-| PostgreSQL 15 | Bootstrap 5 | Laravel Envoy   |
+| Back-End      | Front-End   | Admin Sys       | Various |
+|:-------------:|:-----------:|:---------------:|:-------:|
+| PHP 8.1       | React JS 18 | Debian 11       | PHPUnit |
+| Laravel 9     | Next.js 13  | Ubuntu 22       | PHPStan |
+| Symfony 6     | Vue.js 3    | Nginx           | PHP CS Fixer |
+| MySQL         | HTML 5.1    | Apache          | PSR |
+| MariaDB 10.9  | CSS 3       | Ansible         | Git |
+| PostgreSQL 15 | Bootstrap 5 | Laravel Envoy   | Docker |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
