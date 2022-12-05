@@ -55,7 +55,7 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Name | URL |
 |:----:|:---:|
-| Ansible Playbook | [Ansible - Web Server Nginx / Apache](https://github.com/s-damian/ansible-web-server-debian) |
+| Ansible Playbook | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
 
 ### PHP Best Practices
 
