@@ -49,7 +49,7 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Framework | URL |
 |:---------:|:---------:|
-| Symfony 6 | [CRUD with Symfony 6](https://github.com/s-damian/symfony-crud-example) |
+| Symfony 6 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### Web Server Automation
 
