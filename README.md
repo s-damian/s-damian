@@ -33,14 +33,14 @@ Passionate, I also developed my MVC framework from A to Z:
 ### Laravel packages
 
 | Name | URL |
-|:---------:|:---------:|
+|:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 
 ### PHP packages
 
 | Name | URL |
-|:---------:|:---------:|
+|:----:|:---:|
 | Damian Pagination PHP | [PHP Pagination Library](https://github.com/s-damian/damian-pagination-php) |
 | Damian PHP Framework - Skeleton | [Damian PHP Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian PHP Framework - Kernel | [Damian PHP Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
@@ -48,26 +48,26 @@ Passionate, I also developed my MVC framework from A to Z:
 ### CRUD examples
 
 | Framework | URL |
-|:---------:|:---------:|
+|:---------:|:---:|
 | Symfony 6 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### Web Server Automation
 
 | Name | URL |
-|:---------:|:---------:|
+|:----:|:---:|
 | Ansible Playbook | [Ansible - Web Server Nginx / Apache](https://github.com/s-damian/ansible-web-server-debian) |
 
 ### PHP best practices
 
 | Name | URL |
-|:---------:|:---------:|
-| SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
+|:----:|:---:|
 | Design Patterns | [Design Patterns - Examples with PHP 8.1](https://github.com/s-damian/design-patterns-php) |
+| SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
 
 ### My Social Medias
 
 | | Name | URL |
-|:-------------:|:-----------:|:---------------:|
+|:--:|:--:|:--:|
 | [![Stephen Damian - LinkedIn](https://raw.githubusercontent.com/s-damian/medias/main/favicon-linkedin.png)](https://www.linkedin.com/in/stephen-damian/) | My LinkedIn         | [Stephen Damian - LinkedIn](https://www.linkedin.com/in/stephen-damian/) |
 | [![Stephen Damian - GitHub](https://raw.githubusercontent.com/s-damian/medias/main/favicon-github.png)](https://github.com/s-damian)                     | My GitHub           | [Stephen Damian - GitHub](https://github.com/s-damian) |
 | [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-s-damian.ico)](https://www.damian-freelance.com/)            | My Website (**en**) | [Stephen Damian - Website (**.com**)](https://www.damian-freelance.com/) |
