@@ -32,9 +32,9 @@ Passionate, I also developed my MVC framework from A to Z:
 
 ### Laravel packages
 
-| Framework | URL |
+| Name | URL |
 |:---------:|:---------:|
-| Larasort  | [Larasort](https://github.com/s-damian/larasort) |
+| Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 
 ### CRUD examples
