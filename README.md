@@ -43,6 +43,13 @@ Passionate, I also developed my MVC framework from A to Z:
 |:---------:|:---------:|
 | Symfony 6 | [CRUD with Symfony 6](https://github.com/s-damian/symfony-crud-example) |
 
+### PHP best practices
+
+| Name | URL |
+|:---------:|:---------:|
+| SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
+| Design Patterns | [Design Patterns - Examples with PHP 8.1](https://github.com/s-damian/design-patterns-php) |
+
 ### My Social Medias
 
 | | Name | URL |
