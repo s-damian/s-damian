@@ -43,18 +43,18 @@ Passionate, I also developed my MVC framework from A to Z:
 |:---------:|:---------:|
 | Symfony 6 | [CRUD with Symfony 6](https://github.com/s-damian/symfony-crud-example) |
 
+### Web Server Automation
+
+| Name | URL |
+|:---------:|:---------:|
+| Ansible Playbook | [Ansible - Web Server Nginx / Apache](https://github.com/s-damian/ansible-web-server-debian) |
+
 ### PHP best practices
 
 | Name | URL |
 |:---------:|:---------:|
 | SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
 | Design Patterns | [Design Patterns - Examples with PHP 8.1](https://github.com/s-damian/design-patterns-php) |
-
-### Web Server Automation
-
-| Name | URL |
-|:---------:|:---------:|
-| Ansible Playbook | [Ansible - Web Server Nginx / Apache](https://github.com/s-damian/ansible-web-server-debian) |
 
 ### My Social Medias
 
