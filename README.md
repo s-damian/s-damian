@@ -1,4 +1,4 @@
-# Full-Stack Developer - Laravel / React JS / Vue.js
+# Developer - Laravel / Symfony / React JS / Vue JS
 
 [![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
@@ -46,12 +46,6 @@ Passionate, I also developed my MVC framework from A to Z:
 | Damian PHP Framework - Skeleton | [PHP MVC Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian PHP Framework - Kernel | [PHP MVC Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
-### CRUD Examples
-
-| Framework | URL |
-|:---------:|:---:|
-| Symfony 6 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
-
 ### Web Server Automation
 
 | Name | URL |
@@ -64,6 +58,12 @@ Passionate, I also developed my MVC framework from A to Z:
 |:----:|:---:|
 | Design Patterns | [Design Patterns - Examples with PHP 8.1](https://github.com/s-damian/design-patterns-php) |
 | SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
+
+### CRUD Examples
+
+| Framework | URL |
+|:---------:|:---:|
+| Symfony 6 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### My Social Medias
 
