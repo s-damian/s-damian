@@ -1,6 +1,6 @@
 # Full-Stack Developer - Laravel / React JS / Vue.js
 
-[![Stephen Damian - Freelance Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
+[![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
 > 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 
@@ -36,14 +36,15 @@ Passionate, I also developed my MVC framework from A to Z:
 |:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
+| Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
 
 ### PHP Packages
 
 | Name | URL |
 |:----:|:---:|
 | Damian Pagination PHP | [PHP Pagination Library](https://github.com/s-damian/damian-pagination-php) |
-| Damian PHP Framework - Skeleton | [Damian PHP Framework - Skeleton](https://github.com/s-damian/damian-php) |
-| Damian PHP Framework - Kernel | [Damian PHP Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
+| Damian PHP Framework - Skeleton | [PHP MVC Framework - Skeleton](https://github.com/s-damian/damian-php) |
+| Damian PHP Framework - Kernel | [PHP MVC Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
 ### CRUD Examples
 
