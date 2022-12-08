@@ -1,4 +1,4 @@
-# Developer - Laravel / Symfony / React JS / Vue JS
+# Freelance Developer - Laravel / React JS / Vue JS
 
 [![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
