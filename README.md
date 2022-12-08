@@ -15,7 +15,7 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Back-End      | Front-End   | Admin Sys       | Various |
 |:-------------:|:-----------:|:---------------:|:-------:|
-| PHP 8.1       | React JS 18 | Debian 11       | PHPUnit |
+| PHP 8.2       | React JS 18 | Debian 11       | PHPUnit |
 | Laravel 9     | Next.js 13  | Ubuntu 22       | PHPStan |
 | Symfony 6     | Vue.js 3    | Nginx           | PHP CS Fixer |
 | MySQL         | HTML 5.1    | Apache          | PSR |
