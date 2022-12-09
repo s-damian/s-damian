@@ -56,8 +56,8 @@ Passionate, I also developed my MVC framework from A to Z:
 
 | Name | URL |
 |:----:|:---:|
-| Design Patterns | [Design Patterns - Examples with PHP 8.1](https://github.com/s-damian/design-patterns-php) |
-| SOLID | [SOLID - Examples with PHP 8.1](https://github.com/s-damian/solid-php) |
+| Design Patterns | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
+| SOLID | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
 ### CRUD Examples
 
