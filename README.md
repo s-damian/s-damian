@@ -1,4 +1,4 @@
-# Freelance Developer - Laravel / React JS / Vue JS
+# &#9728; Full Stack Developer - Laravel / React / Vue.js / TS
 
 [![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
@@ -61,9 +61,9 @@ Passionate, I also developed my MVC framework from A to Z:
 
 ### CRUD Examples
 
-| Framework | URL |
+| Framework | Language | URL |
 |:---------:|:---:|
-| Symfony 6 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
+| Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### My Social Medias
 
