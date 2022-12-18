@@ -62,7 +62,7 @@ Passionate, I also developed my MVC framework from A to Z:
 ### CRUD Examples
 
 | Framework | Language | URL |
-|:---------:|:---:|
+|:---------:|:--------:|:---:|
 | Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### My Social Medias
