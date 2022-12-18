@@ -1,8 +1,8 @@
-# &#9728; Full Stack Developer - Laravel / React / Vue.js / TS
+# Full Stack Developer - Laravel / React / Vue.js / TS
 
 [![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
-> 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
+> &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 
 ### My Framework
 
