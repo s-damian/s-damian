@@ -64,7 +64,7 @@ Passionate, I also developed my MVC framework from A to Z:
 | Framework | Language | URL |
 |:---------:|:--------:|:---:|
 | Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
-| Phoenix 1.6 | Elixir | [CRUD with Phoenix 1.6](https://github.com/s-damian/phoenix-crud-example) |
+| Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.6](https://github.com/s-damian/phoenix-crud-example) |
 
 ### My Social Medias
 
