@@ -19,7 +19,7 @@ Passionate, I also developed my MVC framework from A to Z:
 | Laravel 9     | Next.js 13   | Ubuntu 22       | PHPStan |
 | Node.js       | Vue.js 3     | Nginx           | PHP CS Fixer |
 | MySQL         | TypeScript   | Apache          | PSR |
-| MariaDB 10.9  | HTML & CSS   | Ansible         | Git |
+| MariaDB 10.10 | HTML & CSS   | Ansible         | Git |
 | PostgreSQL 15 | Tailwind CSS | Laravel Envoy   | Docker |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
