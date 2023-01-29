@@ -52,13 +52,7 @@
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
-
-
-
 ### :octocat: Open-Source Packages
-
-
-
 
 <table>
 
@@ -89,10 +83,6 @@
 </tr>
 
 </table>
-
-
-
-
 
 ### Web Server Automation
 
