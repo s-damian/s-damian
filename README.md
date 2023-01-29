@@ -52,38 +52,26 @@
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
-
-
-
 ### :octocat: Open-Source Packages
 
-
-
-
 <table>
-
 <tr><th>Laravel Packages</th><th>PHP Packages</th></tr>
-
-<tr><td>
-
+<tr>
+<td>
 | Name | URL |
 |:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
-
 </td>
 <td>
-
 | Name | URL |
 |:----:|:---:|
 | Damian Pagination PHP | [PHP Pagination Library](https://github.com/s-damian/damian-pagination-php) |
-| Damian PHP Framework - Skeleton | [PHP MVC Framework - Skeleton](https://github.com/s-damian/damian-php) |
-| Damian PHP Framework - Kernel | [PHP MVC Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
-
+| Damian PHP Framework - Skeleton | [Framework - Skeleton](https://github.com/s-damian/damian-php) |
+| Damian PHP Framework - Kernel | [Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 </td>
 </tr>
-
 </table>
 
 
