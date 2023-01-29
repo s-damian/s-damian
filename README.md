@@ -60,7 +60,11 @@
 
 
 
-### Laravel Packages
+<table>
+
+<tr><th>Laravel Packages</th><th>PHP Packages</th></tr>
+
+<tr><td>
 
 | Name | URL |
 |:----:|:---:|
@@ -68,13 +72,22 @@
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
 
-### PHP Packages
+</td><td>
+<tr><td>
 
 | Name | URL |
 |:----:|:---:|
 | Damian Pagination PHP | [PHP Pagination Library](https://github.com/s-damian/damian-pagination-php) |
 | Damian PHP Framework - Skeleton | [PHP MVC Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian PHP Framework - Kernel | [PHP MVC Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
+
+</td><td>
+
+</table>
+
+
+
+
 
 ### Web Server Automation
 
