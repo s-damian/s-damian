@@ -13,18 +13,22 @@
     &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 </p>
 
+
+
 <p align="center">
-<a href="https://www.damian-freelance.com/">
-    <img src="https://img.shields.io/badge/damian--freelance.com-Website%20(en)-orange">
-</a>
 
-<a href="https://www.damian-freelance.fr/">
-    <img src="https://img.shields.io/badge/damian--freelance.fr-Website%20(fr)-orange">
-</a>
+    <a href="https://www.damian-freelance.com/">
+        <img src="https://img.shields.io/badge/damian--freelance.com-Website%20(en)-orange">
+    </a>
 
-<a href="https://www.linkedin.com/in/stephen-damian/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+    <a href="https://www.damian-freelance.fr/">
+        <img src="https://img.shields.io/badge/damian--freelance.fr-Website%20(fr)-orange">
+    </a>
+
+    <a href="https://www.linkedin.com/in/stephen-damian/">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    </a>
+
 </p>
 
 
