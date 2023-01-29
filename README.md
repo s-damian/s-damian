@@ -2,7 +2,6 @@
     Web Developer - Laravel / React / Vue.js / TS
 </h1>
 
-
 <p align="center">
     <a href="https://github.com/s-damian">
         <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
@@ -13,19 +12,18 @@
     &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 </p>
 
-
 <p align="center">
-
 <a href="https://www.damian-freelance.com/">
     <img src="https://img.shields.io/badge/My%20Website-en-orange">
 </a>
-
 <a href="https://www.damian-freelance.fr/">
     <img src="https://img.shields.io/badge/My%20Website-fr-orange">
 </a>
-
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://github.com/s-damian">
+    <img src="https://img.shields.io/badge/-Linkedin-grey?style=flat-square&logo=github">
 </a>
 </p>
 
@@ -93,12 +91,3 @@ Passionate, I also developed my MVC framework from A to Z:
 |:---------:|:--------:|:---:|
 | Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
-
-### My Social Medias
-
-| | Name | URL |
-|:--:|:--:|:--:|
-| [![Stephen Damian - LinkedIn](https://raw.githubusercontent.com/s-damian/medias/main/favicon-linkedin.png)](https://www.linkedin.com/in/stephen-damian/) | My LinkedIn         | [Stephen Damian - LinkedIn](https://www.linkedin.com/in/stephen-damian/) |
-| [![Stephen Damian - GitHub](https://raw.githubusercontent.com/s-damian/medias/main/favicon-github.png)](https://github.com/s-damian)                     | My GitHub           | [Stephen Damian - GitHub](https://github.com/s-damian) |
-| [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-s-damian.ico)](https://www.damian-freelance.com/)            | My Website (**en**) | [Stephen Damian - Website (**.com**)](https://www.damian-freelance.com/) |
-| [![Stephen Damian - Website](https://raw.githubusercontent.com/s-damian/medias/main/favicon-s-damian.ico)](https://www.damian-freelance.fr/)             | My Website (**fr**) | [Stephen Damian - Website (**.fr**)](https://www.damian-freelance.fr/) |
