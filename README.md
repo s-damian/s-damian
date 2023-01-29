@@ -3,15 +3,13 @@
 
 <p align="center">
 
-<figure style="display: inline-block;">
 <a href="https://github.com/s-damian">
 <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
 </a>
-<div>
-<figcaption>&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</figcaption>
-</div>
-</figure>
 
+[![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
+
+<span>&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</span>
 </p>
 
 
