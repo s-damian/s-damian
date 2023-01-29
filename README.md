@@ -21,11 +21,11 @@
 </a>
 
 <a href="https://www.damian-freelance.fr/">
-    <img src="https://img.shields.io/badge/damian--freelance.fr-Website%20(fr)-orange">
+    <img src="https://img.shields.io/badge/My%20Website-fr-orange">
 </a>
 
 <a href="https://www.linkedin.com/in/stephen-damian/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/My%20Website-en-orange">
 </a>
 </p>
 
