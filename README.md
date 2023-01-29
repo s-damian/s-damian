@@ -84,13 +84,13 @@
 
 </table>
 
-### Web Server Automation
+### 📈 Web Server Automation
 
 | Name | URL |
 |:----:|:---:|
 | Ansible Playbook | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
 
-### PHP Best Practices
+### 🎓 PHP Best Practices
 
 | Name | URL |
 |:----:|:---:|
