@@ -72,8 +72,8 @@
 | Laravel Manual Pagination | [Laravel Man Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
 
-</td><td>
-<tr><td>
+</td>
+<td>
 
 | Name | URL |
 |:----:|:---:|
@@ -81,7 +81,8 @@
 | Damian PHP Framework - Skeleton | [PHP MVC Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian PHP Framework - Kernel | [PHP MVC Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
-</td><td>
+</td>
+</tr>
 
 </table>
 
