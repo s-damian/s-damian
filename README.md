@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://www.damian-freelance.com/">
-        <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+        <img src="https://img.shields.io/badge/Website-damian-freelance.com-red?style=flat-square">
     </a>
 </p>
 
