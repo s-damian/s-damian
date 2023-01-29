@@ -6,7 +6,8 @@
         <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
     </a>
 </p>
-<span>&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</span>
+
+<p align="center">&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</p>
 
 
 ### My Framework
