@@ -14,10 +14,8 @@
 </p>
 
 
-
 <p align="center">
 
-<div style="display: inline-block;">
 <a href="https://www.damian-freelance.com/">
     <img src="https://img.shields.io/badge/damian--freelance.com-Website%20(en)-orange">
 </a>
@@ -25,14 +23,10 @@
 <a href="https://www.damian-freelance.fr/">
     <img src="https://img.shields.io/badge/damian--freelance.fr-Website%20(fr)-orange">
 </a>
-</div>
 
-<div style="display: inline-block;">
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-</div>
-
 </p>
 
 
