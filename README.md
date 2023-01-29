@@ -65,7 +65,7 @@
 | Name | URL |
 |:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
-| Laravel Manual Pagination | [Laravel Pagination](https://github.com/s-damian/laravel-man-pagination) |
+| Laravel Man Pagination | [Laravel Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
 
 </td>
