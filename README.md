@@ -97,7 +97,7 @@
 | Design Patterns | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
-### CRUD Examples
+### ↗️ CRUD Examples
 
 | Framework | Language | URL |
 |:---------:|:--------:|:---:|
