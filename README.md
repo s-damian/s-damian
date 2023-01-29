@@ -6,8 +6,8 @@
 <figure>
 <a href="https://github.com/s-damian">
 <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
-<figcaption>&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</figcaption>
 </a>
+<figcaption>&#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment</figcaption>
 </figure>
 
 </p>
