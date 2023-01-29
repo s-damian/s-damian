@@ -13,6 +13,12 @@
     &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 </p>
 
+<p align="center">
+    <a href="https://www.damian-freelance.com/">
+        <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+    </a>
+</p>
+
 
 
 
