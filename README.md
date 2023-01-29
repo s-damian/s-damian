@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<figure>
+<figure style="display: inline-block;">
 <a href="https://github.com/s-damian">
 <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
 </a>
