@@ -35,14 +35,14 @@
 
 ### ↗️ My Skills
 
-| Back-End      | Front-End    | Admin Sys       | Various      | Also |
-|:-------------:|:------------:|:---------------:|:------------:|:----:|
-| PHP 8.2       | React JS 18  | Debian 11       | PHPUnit      | Solidity |
-| Laravel 9     | Next.js 13   | Ubuntu 22       | PHPStan      | Ethereum |
-| Node.js       | Vue.js 3     | Nginx           | PHP CS Fixer | Blockchain |
-| MySQL         | TypeScript   | Apache          | PSR          | Elixir |
-| MariaDB 10.10 | HTML & CSS   | Ansible         | Git          | Phoenix |
-| PostgreSQL 15 | Tailwind CSS | Laravel Envoy   | Docker       | DevOps |
+| Back-End      | Front-End    | Admin Sys     | Various      | Also |
+|:-------------:|:------------:|:-------------:|:------------:|:----:|
+| PHP 8.2       | React JS 18  | Debian 11     | PHPUnit      | Solidity |
+| Laravel 9     | Next.js 13   | Ubuntu 22     | PHPStan      | Ethereum |
+| Node.js       | Vue.js 3     | Nginx         | PHP CS Fixer | Blockchain |
+| MySQL         | TypeScript   | Apache        | PSR          | Elixir |
+| MariaDB 10.10 | HTML & CSS   | Ansible       | Git          | Phoenix |
+| PostgreSQL 15 | Tailwind CSS | Laravel Envoy | Docker       | DevOps |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
