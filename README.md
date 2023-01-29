@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://github.com/s-damian">
-    <img src="https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">
 </a>
 </p>
 
