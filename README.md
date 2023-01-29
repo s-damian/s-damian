@@ -2,9 +2,12 @@
 
 
 <p align="center">
-[![Stephen Damian - Full Stack Developer](https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp)](https://github.com/s-damian)
 
-> &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
+<a href="https://github.com/s-damian">
+<img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
+</a>
+
+
 </p>
 
 
