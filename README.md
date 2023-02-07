@@ -1,5 +1,5 @@
 <h1 align="center">
-    Freelance Developer - Laravel / React / Vue.js
+    Freelance Developer - Laravel / Vue.js / React
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    &#9728; 100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
+    100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 * Passionate, I also developed my MVC framework from A to Z: [Damian PHP Framework](https://github.com/s-damian/damian-php)
 
-### ↗️ My Skills
+### &#9728; My Skills
 
 | Back-End      | Front-End    | Admin Sys     | Various      | Also |
 |:-------------:|:------------:|:-------------:|:------------:|:----:|
