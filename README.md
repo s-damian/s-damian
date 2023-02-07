@@ -37,9 +37,9 @@
 
 | Back-End      | Front-End    | Admin Sys     | Various      | Also |
 |:-------------:|:------------:|:-------------:|:------------:|:----:|
-| PHP 8.2       | React JS 18  | Debian 11     | PHPUnit      | Solidity |
-| Laravel 10    | Next.js 13   | Ubuntu 22     | PHPStan      | Ethereum |
-| Node.js       | Vue.js 3     | Nginx         | PHP CS Fixer | Blockchain |
+| PHP 8.2       | Vue.js 3     | Debian 11     | PHPUnit      | Solidity |
+| Laravel 10    | React JS 18  | Ubuntu 22     | PHPStan      | Ethereum |
+| Node.js       | Next.js 13   | Nginx         | PHP CS Fixer | Blockchain |
 | MySQL         | TypeScript   | Apache        | PSR          | Elixir |
 | MariaDB 10.10 | HTML & CSS   | Ansible       | Git          | Phoenix |
 | PostgreSQL 15 | Tailwind CSS | Laravel Envoy | Docker       | DevOps |
