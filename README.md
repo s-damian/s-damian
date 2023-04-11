@@ -35,14 +35,14 @@
 
 ### &#9728; My Skills
 
-| Back-End      | Front-End    | Admin Sys     | Testing       | Various |
-|:-------------:|:------------:|:-------------:|:-------------:|:----:|
-| PHP 8.2       | Vue.js 3     | Debian 11     | Unit tests    | PSR |
-| Laravel 10    | React JS 18  | Ubuntu 22     | End-to-End    | Git |
-| Node.js       | Next.js 13   | Nginx         | Code coverage | Docker |
-| MySQL         | TypeScript   | Apache        | PHPUnit       | Elixir |
-| MariaDB 10.10 | HTML & CSS   | Ansible       | PHPStan       | Phoenix |
-| PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHP CS Fixer  | DevOps |
+| Back-End      | Front-End    | Admin Sys     | Testing           | Various |
+|:-------------:|:------------:|:-------------:|:-----------------:|:----:|
+| PHP 8.2       | Vue.js 3     | Debian 11     | End-to-End tests  | PHPStan |
+| Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | PHP CS Fixer |
+| Node.js       | Next.js 13   | Nginx         | Integration tests | PSR |
+| MySQL         | TypeScript   | Apache        | Unit tests        | Git |
+| MariaDB 10.10 | HTML & CSS   | Ansible       | Code coverage     | Docker |
+| PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
