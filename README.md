@@ -14,10 +14,10 @@
 
 <p align="center">
 <a href="https://www.damian-freelance.fr/">
-    <img src="https://img.shields.io/badge/My%20Website-fr-yellow">
+    <img src="https://img.shields.io/badge/My%20Website-fr-yellowgreen">
 </a>
 <a href="https://www.damian-freelance.com/">
-    <img src="https://img.shields.io/badge/My%20Website-en-yellow">
+    <img src="https://img.shields.io/badge/My%20Website-en-yellowgreen">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
