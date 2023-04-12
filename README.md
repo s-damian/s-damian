@@ -27,7 +27,7 @@
 </a>
 </p>
 
-### 🖥️ My Framework
+### 🖥️ PHP Frameworks
 
 * For professional projects, like PHP Framework I use **Laravel**.
 
