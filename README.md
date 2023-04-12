@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    100% Custom Web Applications & LEMP Server & Zero Downtime Deployment
+    100% Custom Web Applications & CRM / ERP & Zero Downtime Deployment
 </p>
 
 <p align="center">
