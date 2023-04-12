@@ -40,7 +40,7 @@
 | PHP 8.2       | Vue.js 3     | Debian 11     | End-to-End tests  | PHPStan |
 | Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | PHP CS Fixer |
 | Node.js       | Next.js 13   | Nginx         | Integration tests | PSR |
-| MySQL         | TypeScript   | Apache        | Unit tests        | Git |
+| MySQL 8       | TypeScript   | Apache        | Unit tests        | Git |
 | MariaDB 10.X  | HTML & CSS   | Ansible       | Code coverage     | Docker |
 | PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
 
