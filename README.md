@@ -41,7 +41,7 @@
 | Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | PHP CS Fixer |
 | Node.js       | Next.js 13   | Nginx         | Integration tests | PSR |
 | MySQL         | TypeScript   | Apache        | Unit tests        | Git |
-| MariaDB 10.*  | HTML & CSS   | Ansible       | Code coverage     | Docker |
+| MariaDB 10.X  | HTML & CSS   | Ansible       | Code coverage     | Docker |
 | PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
