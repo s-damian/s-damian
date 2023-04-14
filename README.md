@@ -1,5 +1,5 @@
 <h1 align="center">
-    Freelance Developer - Laravel / Vue.js / React
+    Software Developer - Laravel / Vue.js / React
 </h1>
 
 <p align="center">
