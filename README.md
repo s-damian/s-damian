@@ -45,8 +45,8 @@
 | PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
-[![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
 [![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
+[![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
