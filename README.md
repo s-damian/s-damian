@@ -35,7 +35,7 @@
 
 ### &#9728; My Skills
 
-| Back-End      | Front-End    | Admin Sys     | Testing           | Various |
+| Back-End      | Front-End    | SysAdmin      | Testing           | Various |
 |:-------------:|:------------:|:-------------:|:-----------------:|:----:|
 | PHP 8.2       | Vue.js 3     | Debian 11     | End-to-End tests  | PHPStan |
 | Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | PHP CS Fixer |
