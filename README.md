@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+    Expert in 100% custom CRM / ERP software development
+</p>
+<p align="center">
     100% Custom Web Applications & CRM / ERP & Zero Downtime Deployment
 </p>
 
@@ -36,7 +39,7 @@
 | Node.js       | Next.js 13   | Nginx         | Integration tests | PSR |
 | MySQL 8       | TypeScript   | Apache        | Unit tests        | Git |
 | MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Docker |
-| PostgreSQL 15 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
+| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
