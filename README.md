@@ -32,14 +32,14 @@
 
 ### 🌎 My Skills
 
-| Back-End      | Front-End    | SysAdmin      | Testing           | Various |
-|:-------------:|:------------:|:-------------:|:-----------------:|:----:|
-| PHP 8.2       | Vue.js 3     | Debian 11     | End-to-End tests  | PHPStan |
+| Back-End      | Front-End    | DevOps        | Testing           | Various      |
+|:-------------:|:------------:|:-------------:|:-----------------:|:------------:|
+| PHP 8.3       | Vue.js 3     | Debian 11     | End-to-End tests  | PHPStan      |
 | Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | PHP CS Fixer |
-| Node.js       | Next.js 14   | Nginx         | Integration tests | PSR |
-| MySQL 8       | TypeScript   | Apache        | Unit tests        | Git |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Docker |
-| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | DevOps |
+| Node.js       | Next.js 14   | Nginx         | Integration tests | PSR          |
+| MySQL 8       | TypeScript   | Apache        | Unit tests        | Git          |
+| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Docker       |
+| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | SysAdmin     |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
