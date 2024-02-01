@@ -35,7 +35,7 @@
 | Back-End      | Front-End    | DevOps        | Testing           | Various      |
 |:-------------:|:------------:|:-------------:|:-----------------:|:------------:|
 | PHP 8.3       | Vue.js 3     | Debian 12     | End-to-End tests  | Rust         |
-| Laravel 10    | React JS 18  | Ubuntu 22     | Functional tests  | Elixir       |
+| Laravel 11    | React JS 18  | Ubuntu 22     | Functional tests  | Elixir       |
 | Node.js       | Next.js 14   | Nginx         | Integration tests | Phoenix      |
 | MySQL 8       | TypeScript   | Apache        | Unit tests        | PHPStan      |
 | MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Git          |
