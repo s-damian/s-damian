@@ -35,10 +35,10 @@
 | Back-End      | Front-End    | DevOps        | Testing           | Various      |
 |:-------------:|:------------:|:-------------:|:-----------------:|:------------:|
 | PHP 8.3       | Vue.js 3     | Debian 12     | End-to-End tests  | Rust         |
-| Laravel 11    | React JS 18  | Ubuntu 22     | Functional tests  | Elixir       |
-| Node.js       | Next.js 14   | Nginx         | Integration tests | Phoenix      |
-| MySQL 8       | TypeScript   | Apache        | Unit tests        | PHPStan      |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Git          |
+| Laravel 11    | React JS 18  | Ubuntu 22     | Functional tests  | Solana       |
+| Node.js       | Next.js 14   | Nginx         | Integration tests | Anchor       |
+| MySQL 8       | TypeScript   | Apache        | Unit tests        | Elixir       |
+| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Phoenix      |
 | PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | Docker       |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
