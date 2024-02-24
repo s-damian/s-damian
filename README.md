@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    Senior Full-Stack Developer: Laravel / Vue.js / React / Rust
+    Senior Full-Stack Developer: Laravel / Vue.js / React / TS / Rust
 </p>
 <p align="center">
     100% Custom Development: Back-End / Front-End / Zero Downtime Deployment
