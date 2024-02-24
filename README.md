@@ -12,7 +12,7 @@
     Senior Full-Stack Developer: Laravel / Vue.js / React / Rust
 </p>
 <p align="center">
-    100% Custom Development: Back-End / Front-End / DevOps / Zero Downtime Deployment
+    100% Custom Development: Back-End / Front-End / Zero Downtime Deployment
 </p>
 <p align="center">
     Passion for Innovation: Web & Blockchain Technologies
