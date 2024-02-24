@@ -33,7 +33,7 @@
 </a>
 </p>
 
-### 🌎 My Skills
+### 🌐 My Skills
 
 | Back-End      | Front-End    | DevOps        | Testing           | Various      |
 |:-------------:|:------------:|:-------------:|:-----------------:|:------------:|
