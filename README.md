@@ -1,5 +1,5 @@
 <h1 align="center">
-    Senior Developer - Laravel / TypeScript / Rust
+    Full-Stack Developer - Laravel / TypeScript / Rust
 </h1>
 
 <p align="center">
