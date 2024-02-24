@@ -1,5 +1,5 @@
 <h1 align="center">
-    Software Developer - Laravel / Vue.js / React
+    Senior Developer - Laravel / TypeScript / Rust
 </h1>
 
 <p align="center">
@@ -9,10 +9,13 @@
 </p>
 
 <p align="center">
-    Expert in 100% custom CRM / ERP software development
+    Senior Full-Stack Developer: Laravel / Vue.js / React / Rust
 </p>
 <p align="center">
-    100% Custom Web Applications & CRM / ERP & Zero Downtime Deployment
+    100% Custom Development: Back-End / Front-End / DevOps / Zero Downtime Deployment
+</p>
+<p align="center">
+    Passion for Innovation: Web & Blockchain Technologies
 </p>
 
 <p align="center">
@@ -49,12 +52,6 @@
 [![Nginx](https://raw.githubusercontent.com/s-damian/medias/main/technos/nginx.webp)](https://github.com/s-damian)
 [![Ansible](https://raw.githubusercontent.com/s-damian/medias/main/technos/ansible.webp)](https://github.com/s-damian)
 
-### 🖥️ PHP Frameworks
-
-* For professional projects, like PHP Framework I use **Laravel**.
-
-* Passionate, I also developed my MVC framework from A to Z: [Damian PHP Framework](https://github.com/s-damian/damian-php)
-
 ### :octocat: Open-Source Packages
 
 <table>
@@ -86,6 +83,12 @@
 </tr>
 
 </table>
+
+### 🖥️ PHP Frameworks
+
+* For professional projects, like PHP Framework I use **Laravel**.
+
+* Passionate, I also developed my MVC framework from A to Z: [Damian PHP Framework](https://github.com/s-damian/damian-php)
 
 ### 📈 Web Server Automation
 
