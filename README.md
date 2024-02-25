@@ -40,8 +40,8 @@
 | PHP 8.3       | Vue.js 3     | Debian 12     | End-to-End tests  | Rust         |
 | Laravel 11    | React JS 18  | Ubuntu 22     | Functional tests  | Solana       |
 | Node.js       | Next.js 14   | Nginx         | Integration tests | Anchor       |
-| MySQL 8       | TypeScript   | Apache        | Unit tests        | Ethereum     |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Solidity     |
+| MySQL 8       | TypeScript   | Apache        | Unit tests        | Solidity     |
+| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Ethereum     |
 | PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | Web3         |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
