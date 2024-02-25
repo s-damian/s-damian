@@ -25,7 +25,7 @@
 <a href="https://www.damian-freelance.com/">
     <img src="https://img.shields.io/badge/My%20Website-en-green">
 </a>
-<a href="https://www.linkedin.com/in/stephen-damian/">
+<a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://github.com/s-damian">
