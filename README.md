@@ -12,13 +12,13 @@
     Senior Full-Stack Developer: Laravel / Vue.js / React / TS / Rust
 </p>
 <p align="center">
+    I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Wallet</a>
+</p>
+<p align="center">
     100% Custom Development: Back-End / Front-End / Zero Downtime Deployment
 </p>
 <p align="center">
     Passion for Innovation: Web & Blockchain Technologies
-</p>
-<p align="center">
-    I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Wallet</a>
 </p>
 
 <p align="center">
