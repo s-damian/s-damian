@@ -17,6 +17,9 @@
 <p align="center">
     Passion for Innovation: Web & Blockchain Technologies
 </p>
+<p align="center">
+    I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Wallet</a>
+</p>
 
 <p align="center">
 <a href="https://www.damian-freelance.fr/">
