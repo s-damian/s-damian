@@ -117,4 +117,4 @@
 
 | Name | Language | URL |
 |:---------:|:--------:|:---:|
-| Solana Wallet | Rust | [Solana Wallet](https://github.com/s-damian/rust-solana-wallet) |
+| Solana Wallet | Rust | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
