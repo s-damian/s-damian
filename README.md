@@ -112,3 +112,9 @@
 |:---------:|:--------:|:---:|
 | Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
+
+### ↗️ Blockchain
+
+| Name | Language | URL |
+|:---------:|:--------:|:---:|
+| Solana Wallet | Rust | [Solana Wallet](https://github.com/s-damian/rust-solana-wallet) |
