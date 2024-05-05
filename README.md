@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <strong>Senior</strong> Developer: Passion for innovation: <strong>Web</strong> & <strong>Blockchain</strong> technologies
+    Senior Developer: Passion for innovation: <strong>Web</strong> & <strong>Blockchain</strong> technologies
 </p>
 <p align="center">
     I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
@@ -39,14 +39,14 @@ Passionate, I also developed my <a href="https://github.com/s-damian/damian-php"
 
 ### 🌐 My Skills
 
-| Back-End      | Front-End    | DevOps        | Testing           | Blockchain   |
-|:-------------:|:------------:|:-------------:|:-----------------:|:------------:|
-| PHP 8.3       | Vue.js 3     | Debian 12     | End-to-End tests  | Rust         |
-| Laravel 11    | React JS 18  | Ubuntu 22     | Functional tests  | Solana       |
-| Node.js       | Next.js 14   | Nginx         | Integration tests | Anchor       |
-| MySQL 8       | TypeScript   | Apache        | Unit tests        | dApps        |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Code coverage     | Programs     |
-| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | PHPUnit           | Onchain      |
+| Back-End      | Front-End    | DevOps        | Blockchain   | Testing           |
+|:-------------:|:------------:|:-------------:|:------------:|:-----------------:|
+| PHP 8.3       | Vue.js 3     | Debian 12     | Rust         | End-to-End tests  |
+| Laravel 11    | React JS 18  | Ubuntu 22     | Solana       | Functional tests  |
+| Node.js       | Next.js 14   | Nginx         | Anchor       | Integration tests |
+| MySQL 8       | TypeScript   | Apache        | dApps        | Unit tests        |
+| MariaDB 11.X  | HTML & CSS   | Ansible       | Programs     | Code coverage     |
+| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | Onchain      | PHPUnit           |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
