@@ -91,9 +91,9 @@ Passionate, I also developed my <a href="https://github.com/s-damian/damian-php"
 
 ### 📈 Blockchain
 
-| Name | Language | URL |
-|:---------:|:--------:|:---:|
-| Solana Wallet | Rust | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
+| Name | Language | Blockchain | URL |
+|:---------:|:--------:|:---:|:---:|
+| Solana Wallet | Rust | Solana | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 
 ### ↗️ Web Server Automation
 
