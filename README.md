@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    Senior Full-Stack Developer: Laravel / Vue.js / React / TS / Rust
+    Senior Developer: Passion for innovation: Web & Blockchain technologies
 </p>
 <p align="center">
     I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
@@ -20,9 +20,6 @@ Passionate, I also developed my <a href="https://github.com/s-damian/damian-php"
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / DevOps
-</p>
-<p align="center">
-    Passion for innovation: Web & Blockchain technologies
 </p>
 
 <p align="center">
