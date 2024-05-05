@@ -14,14 +14,10 @@
 <p align="center">
     I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
 </p>
-
-
 <p align="center">
 I'm <strong>Laravel</strong> Lover.
 Passionate, I also developed my <a href="https://github.com/s-damian/damian-php">Framework from A to Z</a>
 </p>
-
-
 <p align="center">
     100% custom development: Back-End / Front-End / DevOps
 </p>
@@ -67,23 +63,33 @@ Passionate, I also developed my <a href="https://github.com/s-damian/damian-php"
 ### :octocat: Open-Source Packages
 
 <table>
+
 <tr><th>Laravel Packages</th><th>PHP Packages</th></tr>
+
 <tr>
+
 <td>
+
 | Name | URL |
 |:----:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort) |
 | Laravel Man Pagination | [Laravel Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
+
 </td>
+
 <td>
+
 | Name | URL |
 |:----:|:---:|
 | Damian Pagination PHP | [Pagination Library](https://github.com/s-damian/damian-pagination-php) |
 | Damian Framework - Skeleton | [Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian Framework - Kernel | [Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
+
 </td>
+
 </tr>
+
 </table>
 
 ### 📈 Blockchain
