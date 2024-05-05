@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <strong>Senior Developer</strong>: Passion for innovation: <strong>Web</strong> & <strong>Blockchain</strong> technologies
+    <strong>Senior developer</strong> passionate about innovation: <strong>Web</strong> & <strong>Blockchain</strong> technologies
 </p>
 <p align="center">
     I'm having fun developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
