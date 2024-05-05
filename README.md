@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.damian-freelance.fr/">
-    <img src="https://img.shields.io/badge/My%20Website-fr-green">
-</a>
 <a href="https://www.damian-freelance.com/">
     <img src="https://img.shields.io/badge/My%20Website-en-green">
+</a>
+<a href="https://www.damian-freelance.fr/">
+    <img src="https://img.shields.io/badge/My%20Website-fr-green">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -93,11 +93,17 @@
 
 * Passionate, I also developed my MVC framework from A to Z: [Damian PHP Framework](https://github.com/s-damian/damian-php)
 
-### 📈 Web Server Automation
+### ↗️ Web Server Automation
 
 | Name | URL |
 |:----:|:---:|
 | Ansible Playbook | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
+
+### 📈 Blockchain
+
+| Name | Language | URL |
+|:---------:|:--------:|:---:|
+| Solana Wallet | Rust | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 
 ### 🎓 PHP Best Practices
 
@@ -112,9 +118,3 @@
 |:---------:|:--------:|:---:|
 | Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
-
-### ↗️ Blockchain
-
-| Name | Language | URL |
-|:---------:|:--------:|:---:|
-| Solana Wallet | Rust | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
