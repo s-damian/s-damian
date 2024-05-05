@@ -45,8 +45,8 @@ Passionate, I also developed my <a href="https://github.com/s-damian/damian-php"
 | Laravel 11    | React JS 18  | Ubuntu 22     | Solana       | Functional tests  |
 | Node.js       | Next.js 14   | Nginx         | Anchor       | Integration tests |
 | MySQL 8       | TypeScript   | Apache        | dApps        | Unit tests        |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Programs     | Code coverage     |
-| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | Onchain      | PHPUnit           |
+| MariaDB 11.X  | HTML & CSS   | Ansible       | Programs     | Performance tests |
+| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | Onchain      | Security tests    |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
