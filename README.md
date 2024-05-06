@@ -12,11 +12,10 @@
     <strong>Senior Developer</strong> passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
 </p>
 <p align="center">
-    I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
+    I'm enjoying developing a <strong>Solana Wallet</strong> in 🦀 Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
 </p>
 <p align="center">
-I'm <strong>Laravel</strong> Lover.
-Passionate, I also developed my <a href="https://github.com/s-damian/damian-php">Framework from A to Z</a>
+    I'm <strong>Laravel</strong> Lover. Passionate, I also developed my <a href="https://github.com/s-damian/damian-php">Framework from A to Z</a>
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / DevOps / Blockchain
