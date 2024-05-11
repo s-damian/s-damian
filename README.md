@@ -18,7 +18,7 @@
     I'm <strong>Laravel</strong> Lover. Passionate, I also developed my <a href="https://github.com/s-damian/damian-php">Framework from A to Z</a>
 </p>
 <p align="center">
-    100% custom development: Back-End / Front-End / DevOps / Blockchain
+    100% custom development: Back-End / Front-End / Blockchain / DevOps
 </p>
 
 <p align="center">
@@ -38,14 +38,14 @@
 
 ### 🌐 My Skills
 
-| Back-End      | Front-End    | DevOps        | Blockchain   | Testing           |
-|:-------------:|:------------:|:-------------:|:------------:|:-----------------:|
-| PHP 8.3       | Vue.js 3     | Debian 12     | Rust         | End-to-End tests  |
-| Laravel 11    | React JS 18  | Ubuntu 22     | Solana       | Functional tests  |
-| Node.js       | Next.js 14   | Nginx         | Anchor       | Integration tests |
-| MySQL 8       | TypeScript   | Apache        | dApps        | Unit tests        |
-| MariaDB 11.X  | HTML & CSS   | Ansible       | Programs     | Performance tests |
-| PostgreSQL 16 | Tailwind CSS | Laravel Envoy | Onchain      | Security tests    |
+| Back-End      | Front-End    | Blockchain | DevOps        | Testing           |
+|:-------------:|:------------:|:----------:|:-------------:|:-----------------:|
+| PHP 8.3       | Vue.js 3     | Rust       | Debian 12     | End-to-End tests  |
+| Laravel 11    | React JS 18  | Solana     | Ubuntu 22     | Functional tests  |
+| Node.js       | Next.js 14   | Anchor     | Nginx         | Integration tests |
+| MySQL 8       | TypeScript   | SVM        | Apache        | Unit tests        |
+| MariaDB 11.X  | HTML & CSS   | dApps      | Ansible       | Performance tests |
+| PostgreSQL 16 | Tailwind CSS | Programs   | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
