@@ -42,10 +42,10 @@
 |:-------------:|:------------:|:----------:|:-------------:|:-----------------:|
 | PHP 8.3       | Vue.js 3     | Rust       | Debian 12     | End-to-End tests  |
 | Laravel 11    | React JS 18  | Solana     | Ubuntu 22     | Functional tests  |
-| Node.js       | Next.js 14   | Anchor     | Nginx         | Integration tests |
-| MySQL 8       | TypeScript   | SVM        | Apache        | Unit tests        |
-| MariaDB 11.X  | HTML & CSS   | dApps      | Ansible       | Performance tests |
-| PostgreSQL 16 | Tailwind CSS | Programs   | Laravel Envoy | Security tests    |
+| Node.js       | Next.js 14   | SVM        | Nginx         | Integration tests |
+| MySQL 8       | TypeScript   | Anchor     | Apache        | Unit tests        |
+| MariaDB 11.X  | HTML & CSS   | Programs   | Ansible       | Performance tests |
+| PostgreSQL 16 | Tailwind CSS | dApps      | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
