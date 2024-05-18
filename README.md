@@ -41,7 +41,7 @@
 | Back-End      | Front-End    | Blockchain | DevOps        | Testing           |
 |:-------------:|:------------:|:----------:|:-------------:|:-----------------:|
 | PHP 8.3       | Vue.js 3     | Rust       | Debian 12     | End-to-End tests  |
-| Laravel 11    | React JS 18  | Solana     | Ubuntu 22     | Functional tests  |
+| Laravel 11    | React JS 18  | Solana     | Ubuntu 24     | Functional tests  |
 | Node.js       | Next.js 14   | SVM        | Nginx         | Integration tests |
 | MySQL 8       | TypeScript   | Anchor     | Apache        | Unit tests        |
 | MariaDB 11.X  | HTML & CSS   | Programs   | Ansible       | Performance tests |
