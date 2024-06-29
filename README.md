@@ -2,15 +2,15 @@
     Full-Stack Developer - Rust / React / Laravel
 </h1>
 
-<h3 align="center">
-    Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
-</h3>
-
 <p align="center">
     <a href="https://github.com/s-damian">
         <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-full-stack.webp" alt="Stephen Damian - Full Stack Developer">
     </a>
 </p>
+
+<h3 align="center">
+    Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
+</h3>
 
 <p align="center">
     <strong>Senior Developer</strong> passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
