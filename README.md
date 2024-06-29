@@ -8,8 +8,8 @@
     </a>
 </p>
 
-<h3 align="center" style="margin-top: 0;">
-    Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
+<h3 align="center">
+    Software & Blockchain Developer - Rust / Solana / TypeScript / Laravel
 </h3>
 
 <p align="center">
@@ -42,14 +42,14 @@
 
 ### 🌐 My Skills
 
-| Back-End      | Front-End    | Blockchain | DevOps        | Testing           |
-|:-------------:|:------------:|:----------:|:-------------:|:-----------------:|
-| PHP 8.3       | Vue.js 3     | Rust       | Debian 12     | End-to-End tests  |
-| Laravel 11    | React JS 18  | Solana     | Ubuntu 24     | Functional tests  |
-| Node.js       | Next.js 14   | SVM        | Nginx         | Integration tests |
-| MySQL 8       | TypeScript   | Anchor     | Apache        | Unit tests        |
-| MariaDB 11.X  | HTML & CSS   | Programs   | Ansible       | Performance tests |
-| PostgreSQL 16 | Tailwind CSS | dApps      | Laravel Envoy | Security tests    |
+| Back-End   | Front-End    | Blockchain | DevOps        | Testing           |
+|:----------:|:------------:|:----------:|:-------------:|:-----------------:|
+| PHP        | Vue.js       | Rust       | Debian        | End-to-End tests  |
+| Laravel    | React JS     | Solana     | Ubuntu        | Functional tests  |
+| Node.js    | Next.js      | SVM        | Nginx         | Integration tests |
+| MySQL      | TypeScript   | Anchor     | Apache        | Unit tests        |
+| MariaDB    | HTML & CSS   | Programs   | Ansible       | Performance tests |
+| PostgreSQL | Tailwind CSS | Web3.js    | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
