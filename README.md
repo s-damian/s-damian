@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<h3 align="center">
+<h3 align="center" style="margin-top: 0;">
     Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
 </h3>
 
