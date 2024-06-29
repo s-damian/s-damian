@@ -72,7 +72,7 @@
 
 | Name | URL |
 |:----:|:---:|
-| Larasort | [Larasort](https://github.com/s-damian/larasort) |
+| Larasort | [Larasort](https://github.com/s-damian/larasort) [![Total Downloads](https://poser.pugx.org/s-damian/larasort/downloads)](https://packagist.org/packages/s-damian/larasort) |
 | Laravel Man Pagination | [Laravel Pagination](https://github.com/s-damian/laravel-man-pagination) |
 | Laravel Lang FR | [Laravel Lang FR](https://github.com/s-damian/laravel-lang-fr) |
 
