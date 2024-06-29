@@ -111,5 +111,5 @@
 
 | Framework | Language | URL |
 |:---------:|:--------:|:---:|
-| Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
+| Phoenix 1.7 | Elixir 💎 | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP 🐘 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
