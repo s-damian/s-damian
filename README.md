@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-    Software Developer - Rust / Solana / React / Vue.js / Laravel
+    Software Developer - Rust / Solana / React / TypeScript
 </h3>
 
 <p align="center">
