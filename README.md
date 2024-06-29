@@ -103,7 +103,7 @@
 ### 🎓 Best Practices
 
 | Name | Language | URL |
-|:----:|:---:|
+|:----:|:---:|:---:|
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
