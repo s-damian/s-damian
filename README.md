@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-    Software & Blockchain Developer - Rust / Solana / TypeScript / Laravel
+    Software & Blockchain Developer - Rust / Solana / React / Laravel
 </h3>
 
 <p align="center">
