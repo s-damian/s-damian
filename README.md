@@ -1,5 +1,5 @@
 <h1 align="center">
-    Full-Stack Developer - Rust / React / Laravel
+    Web3 Developer - Rust / Solana / React / Vue.js / Laravel
 </h1>
 
 <p align="center">
