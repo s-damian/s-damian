@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web3 Developer - Rust / React / Vue.js / Laravel
+    Web3 Developer - Rust / React / TypeScript
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-    Software Developer - Rust / Solana / React / TypeScript
+    Software Developer - Rust / Solana / React / Vue.js / Laravel
 </h3>
 
 <p align="center">
