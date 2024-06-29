@@ -44,9 +44,9 @@
 
 | Back-End   | Front-End    | Blockchain | DevOps        | Testing           |
 |:----------:|:------------:|:----------:|:-------------:|:-----------------:|
-| PHP        | Vue.js       | Rust       | Debian        | End-to-End tests  |
-| Laravel    | React JS     | Solana     | Ubuntu        | Functional tests  |
-| Node.js    | Next.js      | SVM        | Nginx         | Integration tests |
+| PHP        | React JS     | Rust       | Debian        | End-to-End tests  |
+| Laravel    | Next.js      | Solana     | Ubuntu        | Functional tests  |
+| Node.js    | Vue.js       | SVM        | Nginx         | Integration tests |
 | MySQL      | TypeScript   | Anchor     | Apache        | Unit tests        |
 | MariaDB    | HTML & CSS   | Programs   | Ansible       | Performance tests |
 | PostgreSQL | Tailwind CSS | Web3.js    | Laravel Envoy | Security tests    |
