@@ -2,9 +2,9 @@
     Full-Stack Developer - Rust / React / Laravel
 </h1>
 
-<h2 align="center">
+<h3 align="center">
     Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
-</h2>
+</h3>
 
 <p align="center">
     <a href="https://github.com/s-damian">
