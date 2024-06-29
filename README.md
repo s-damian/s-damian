@@ -1,6 +1,10 @@
 <h1 align="center">
-    Full-Stack Developer - Laravel / TypeScript / Rust
+    Full-Stack Developer - Rust / React / Laravel
 </h1>
+
+<h2 align="center">
+    Software & Blockchain Developer - Rust / Solana / React / Vue.js / Laravel
+</h2>
 
 <p align="center">
     <a href="https://github.com/s-damian">
