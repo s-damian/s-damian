@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web3 Developer - Rust / React / TypeScript
+    Web3 Developer - Rust / TypeScript / Laravel
 </h1>
 
 <p align="center">
@@ -87,14 +87,14 @@
 
 </table>
 
-### 📈 Blockchain
+### 🔗 Blockchain
 
 | Name | Language | Blockchain | URL |
 |:---------:|:--------:|:---:|:---:|
 | Solana Wallet | Rust 🦀 | Solana | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing | Rust 🦀 | Solana | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 
-### ↗️ Web Server Automation
+### 📈 Web Server Automation
 
 | Name | URL |
 |:----:|:---:|
