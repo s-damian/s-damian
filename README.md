@@ -36,7 +36,7 @@
 </a>
 </p>
 
-### 💥 My Skills
+### 📈 My Skills
 
 | Back-End   | Front-End    | Solana      | Ethereum        | DevOps        | Testing           |
 |:----------:|:------------:|:-----------:|:---------------:|:-------------:|:-----------------:|
@@ -95,7 +95,7 @@
 | NFT Ticketing (SOL) | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing (ETH) | Solidity | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
-### 📈 Web Server Automation
+### 📊 Web Server Automation
 
 | Name | URL |
 |:----:|:---:|
