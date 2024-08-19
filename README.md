@@ -38,14 +38,14 @@
 
 ### 💥 My Skills
 
-| Back-End   | Front-End    | Solana     | Ethereum | DevOps        | Testing           |
-|:----------:|:------------:|:----------:|:---------:|:-------------:|:-----------------:|
-| PHP        | React JS     | Rust       | Solidity       | Debian        | End-to-End tests  |
-| Laravel    | Next.js      | Solana     | Ethereum     | Ubuntu        | Functional tests  |
-| Node.js    | Vue.js       | SVM        | EVM        | Nginx         | Integration tests |
-| MySQL      | TypeScript   | Anchor     | Hardhat     | Apache        | Unit tests        |
-| MariaDB    | HTML & CSS   | Programs   | Smart contracts | Ansible       | Performance tests |
-| PostgreSQL | Tailwind CSS | Web3.js    | Ethers.js  | Laravel Envoy | Security tests    |
+| Back-End   | Front-End    | Solana      | Ethereum        | DevOps        | Testing           |
+|:----------:|:------------:|:-----------:|:---------------:|:-------------:|:-----------------:|
+| PHP        | React JS     | Rust        | Solidity        | Debian        | End-to-End tests  |
+| Laravel    | Next.js      | SVM         | EVM             | Ubuntu        | Functional tests  |
+| Node.js    | Vue.js       | Anchor      | Hardhat         | Nginx         | Integration tests |
+| MySQL      | TypeScript   | Programs    | Smart Contracts | Apache        | Unit tests        |
+| MariaDB    | HTML & CSS   | Solana CLI  | Geth            | Ansible       | Performance tests |
+| PostgreSQL | Tailwind CSS | Sol.Web3.js | Ethers.js       | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
@@ -93,6 +93,7 @@
 |:---------:|:--------:|:---:|:---:|
 | Solana Wallet | Rust 🦀 | Solana | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing | Rust 🦀 | Solana | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
+| NFT Ticketing | Ethereum 🔗 | Solana | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
 ### 📈 Web Server Automation
 
