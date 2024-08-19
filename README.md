@@ -45,7 +45,7 @@
 | Node.js    | Vue.js       | Anchor      | Hardhat         | Nginx         | Integration tests |
 | MySQL      | TypeScript   | Programs    | Smart Contracts | Apache        | Unit tests        |
 | MariaDB    | HTML & CSS   | Solana CLI  | Geth            | Ansible       | Performance tests |
-| PostgreSQL | Tailwind CSS | Sol.Web3.js | Ethers.js       | Laravel Envoy | Security tests    |
+| PostgreSQL | Tailwind CSS | Sol-Web3.js | Ethers.js       | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
