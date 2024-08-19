@@ -93,7 +93,7 @@
 |:---------:|:--------:|:---:|:---:|:---:|
 | Solana Wallet | Rust 🦀 | Solana | (none) | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing (SOL) | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
-| NFT Ticketing (ETH) | Solidity | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
+| NFT Ticketing (ETH) | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
 ### 📊 Web Server Automation
 
@@ -112,5 +112,5 @@
 
 | Framework | Language | URL |
 |:---------:|:--------:|:---:|
-| Phoenix 1.7 | Elixir 💎 | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
+| Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP 🐘 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
