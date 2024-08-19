@@ -93,7 +93,7 @@
 |:---------:|:--------:|:---:|:---:|
 | Solana Wallet | Rust 🦀 | Solana | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing | Rust 🦀 | Solana | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
-| NFT Ticketing | Ethereum 🔗 | Solana | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
+| NFT Ticketing | Solidity | Ethereum | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
 ### 📈 Web Server Automation
 
