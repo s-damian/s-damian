@@ -89,11 +89,11 @@
 
 ### 🔗 Blockchain
 
-| Name | Language | Blockchain | URL |
+| Name | Language | Blockchain | Framework | URL |
 |:---------:|:--------:|:---:|:---:|
-| Solana Wallet | Rust 🦀 | Solana | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
-| NFT Ticketing (SOL) | Rust 🦀 | Solana | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
-| NFT Ticketing (ETH) | Solidity | Ethereum | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
+| Solana Wallet | Rust 🦀 | Solana | (none) | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
+| NFT Ticketing (SOL) | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
+| NFT Ticketing (ETH) | Solidity | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
 ### 📈 Web Server Automation
 
