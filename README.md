@@ -43,8 +43,8 @@
 | PHP        | React JS     | Rust        | Solidity        | Debian        | End-to-End tests  |
 | Laravel    | Next.js      | SVM         | EVM             | Ubuntu        | Functional tests  |
 | Node.js    | Vue.js       | Anchor      | Hardhat         | Nginx         | Integration tests |
-| MySQL      | TypeScript   | Programs    | Smart Contracts | Apache        | Unit tests        |
-| MariaDB    | HTML & CSS   | Solana CLI  | Geth            | Ansible       | Performance tests |
+| MySQL      | Nuxt.js      | Programs    | Smart Contracts | Apache        | Unit tests        |
+| MariaDB    | TypeScript   | Solana CLI  | Geth            | Ansible       | Performance tests |
 | PostgreSQL | Tailwind CSS | Sol-Web3.js | Ethers.js       | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
