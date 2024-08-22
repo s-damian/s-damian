@@ -41,7 +41,7 @@
 | Back-End   | Front-End  | Solana      | Ethereum        | DevOps        | Testing           |
 |:----------:|:----------:|:-----------:|:---------------:|:-------------:|:-----------------:|
 | PHP        | TypeScript | Rust        | Solidity        | Debian        | End-to-End tests  |
-| Laravel    | React JS   | SVM         | EVM             | Ubuntu        | Functional tests  |
+| Laravel    | React.js   | SVM         | EVM             | Ubuntu        | Functional tests  |
 | Node.js    | Next.js    | Anchor      | Hardhat         | Nginx         | Integration tests |
 | MySQL      | Vue.js     | Programs    | Smart Contracts | Apache        | Unit tests        |
 | MariaDB    | Nuxt.js    | Solana CLI  | Geth            | Ansible       | Performance tests |
