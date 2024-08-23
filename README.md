@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <strong>Senior Developer</strong> passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
+    <strong>Software Developer</strong> passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
@@ -91,7 +91,7 @@
 
 | Name | Language | Blockchain | Framework | URL |
 |:---------:|:--------:|:---:|:---:|:---:|
-| Solana Wallet | Rust 🦀 | Solana | (none) | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
+| Solana Wallet | Rust 🦀 | Solana | - | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
