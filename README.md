@@ -87,7 +87,7 @@
 
 </table>
 
-### 🔁 Blockchain
+### 🌐 Blockchain
 
 | Name | Language | Blockchain | Framework | URL |
 |:---------:|:--------:|:---:|:---:|:---:|
