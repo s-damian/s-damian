@@ -56,14 +56,6 @@
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
 
-### 🌐 Blockchain & Web3
-
-| Name | Language | Blockchain | Framework | URL |
-|:---------:|:--------:|:---:|:---:|:---:|
-| Solana Wallet | Rust 🦀 | Solana | - | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
-| NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
-| NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
-
 ### :octocat: Open-Source Packages
 
 <table>
@@ -94,6 +86,14 @@
 </tr>
 
 </table>
+
+### 🌐 Blockchain & Web3
+
+| Name | Language | Blockchain | Framework | URL |
+|:---------:|:--------:|:---:|:---:|:---:|
+| Solana Wallet | Rust 🦀 | Solana | - | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
+| NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
+| NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
 ### 📊 Web Server Automation
 
