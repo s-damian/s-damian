@@ -15,7 +15,7 @@
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
 </p>
 <p align="center">
-    I'm <strong>Laravel</strong> Lover. Passionate, I also developed my <a href="https://github.com/s-damian/damian-php">Framework from A to Z</a>
+    I'm <strong>Laravel</strong> Lover. Passionate, I also developed from A to Z my <a href="https://github.com/s-damian/damian-php">PHP Framework</a> 🐘
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / Blockchain / DevOps
