@@ -118,5 +118,5 @@
 ### 💻 Laptops with Linux
 
 | Laptop | CPU | OS | URL |
-|:---------:|:--------:|:---:||:---:|
+|:---:|:---:|:---:|:---:|
 | ThinkPad T14 Gen 5 | Ubuntu 24.04 | AMD | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux) |
