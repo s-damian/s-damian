@@ -67,7 +67,7 @@
 <td>
 
 | Name | URL |
-|:----:|:---:|
+|:---:|:---:|
 | Larasort | [Larasort](https://github.com/s-damian/larasort)<br>[![Total Downloads](https://poser.pugx.org/s-damian/larasort/downloads)](https://packagist.org/packages/s-damian/larasort) |
 | Laravel Man Pagination | [Laravel Pagination](https://github.com/s-damian/laravel-man-pagination)<br>[![Total Downloads](https://poser.pugx.org/s-damian/laravel-man-pagination/downloads)](https://packagist.org/packages/s-damian/laravel-man-pagination) |
 
@@ -76,7 +76,7 @@
 <td>
 
 | Name | URL |
-|:----:|:---:|
+|:---:|:---:|
 | Damian Pagination PHP | [Pagination Library](https://github.com/s-damian/damian-pagination-php) |
 | Damian Framework - Skeleton | [Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian Framework - Kernel | [Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
@@ -90,7 +90,7 @@
 ### 🌐 Blockchain & Web3
 
 | Name | Language | Blockchain | Framework | URL |
-|:---------:|:---:|:--------:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | Solana Wallet | Rust 🦀 | Solana | - | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
@@ -98,22 +98,22 @@
 ### 📊 Web Server Automation
 
 | Name | URL |
-|:----:|:---:|
+|:---:|:---:|
 | Ansible Playbook | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
 
 ### 🎓 Best Practices
 
 | Name | Language | URL |
-|:----:|:---:|:---:|
+|:---:|:---:|:---:|
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
 ### 📖 CRUD Examples
 
-| Framework | Language | URL |
-|:---------:|:--------:|:---:|
-| Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
-| Symfony 6 | PHP 🐘 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
+| Framework   | Language | URL |
+|:-----------:|:--------:|:---:|
+| Phoenix 1.7 | Elixir   | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
+| Symfony 6   | PHP 🐘   | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 
 ### 💻 Making laptops compatible with Linux
 
