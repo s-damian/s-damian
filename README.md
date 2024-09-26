@@ -114,3 +114,9 @@
 |:---------:|:--------:|:---:|
 | Phoenix 1.7 | Elixir | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
 | Symfony 6 | PHP 🐘 | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
+
+### 💻 Laptops with Linux
+
+| Laptop | CPU | OS | URL |
+|:---------:|:--------:|:---:|
+| ThinkPad T14 Gen 5 | Ubuntu 24.04 | AMD | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux) |
