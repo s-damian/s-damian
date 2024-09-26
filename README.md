@@ -119,4 +119,4 @@
 
 | Laptop | CPU | OS | Kernel | URL |
 |:---:|:---:|:---:|:---:|:---:|
-| ThinkPad T14 Gen 5 | Ubuntu 24.04 | AMD | 6.8 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux) |
+| ThinkPad T14 Gen 5 | AMD | Ubuntu 24.04 | 6.8 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-14-gen-5-amd-linux) |
