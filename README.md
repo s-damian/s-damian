@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web3 Developer - Rust / Solidity / PHP / TS
+    Web3 Developer - PHP / Laravel / Rust / React
 </h1>
 
 <p align="center">
