@@ -56,7 +56,7 @@
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
 
-### :octocat: Open-Source Packages
+### 🐘 Open-Source PHP Packages
 
 <table>
 
