@@ -15,7 +15,7 @@
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
 </p>
 <p align="center">
-    As a PHP Framework, I prefer <strong>Laravel</strong>. I also developed a <a href="https://github.com/s-damian/damian-php">custom Framework</a> 🐘
+    As a PHP Framework, I prefer <strong>Laravel</strong>. I also developed a <a href="https://github.com/s-damian/damian-php">Custom Framework</a> 🐘
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / Blockchain / DevOps
@@ -77,7 +77,7 @@
 
 | Name | URL |
 |:---:|:---:|
-| Damian Pagination PHP | [Pagination Library](https://github.com/s-damian/damian-pagination-php) |
+| Damian Pagination PHP | [Pagination Library](https://github.com/s-damian/damian-pagination-php)<br>[![Total Downloads](https://poser.pugx.org/s-damian/damian-pagination-php/downloads)](https://packagist.org/packages/s-damian/damian-pagination-php) |
 | Damian Framework - Skeleton | [Framework - Skeleton](https://github.com/s-damian/damian-php) |
 | Damian Framework - Kernel | [Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
