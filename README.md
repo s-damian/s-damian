@@ -78,8 +78,7 @@
 | Name | URL |
 |:---:|:---:|
 | Damian Pagination PHP | [Pagination Library](https://github.com/s-damian/damian-pagination-php)<br>[![Total Downloads](https://poser.pugx.org/s-damian/damian-pagination-php/downloads)](https://packagist.org/packages/s-damian/damian-pagination-php) |
-| Damian Framework - Skeleton | [Framework - Skeleton](https://github.com/s-damian/damian-php) |
-| Damian Framework - Kernel | [Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
+| Damian PHP Framework | [Framework - Skeleton](https://github.com/s-damian/damian-php)<br>[Framework - Kernel](https://github.com/s-damian/damian-php-fw) |
 
 </td>
 
