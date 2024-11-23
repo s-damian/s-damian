@@ -104,6 +104,7 @@
 
 | Name | Language | URL |
 |:---:|:---:|:---:|
+| PHP 8.4 | PHP 🐘 | [PHP 8.4 - New Features](https://github.com/s-damian/php-8-4-new-features) |
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
