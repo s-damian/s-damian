@@ -44,8 +44,8 @@
 | Laravel | React.js   | Rust        | Solidity        | Ubuntu        | Functional tests  |
 | Symfony | Next.js    | Anchor      | Hardhat         | Nginx         | Integration tests |
 | Rust    | Vue.js     | Programs    | Smart Contracts | Apache        | Unit tests        |
-| Node.js | Nuxt.js    | Solana CLI  | Geth            | Ansible       | Performance tests |
-| SQL     | Tailwind   | Sol-Web3.js | Ethers.js       | Laravel Envoy | Security tests    |
+| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | Ansible       | Performance tests |
+| SQL     | Tailwind   | coral-xyz   | Wagmi           | Laravel Envoy | Security tests    |
 
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
