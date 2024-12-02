@@ -45,7 +45,7 @@
 | Symfony | Next.js    | Hardhat         | Anchor      | Nginx   | Integration tests |
 | Rust    | Vue.js     | Smart Contracts | Programs    | Apache  | Unit tests        |
 | Node.js | Nuxt.js    | Ethers.js       | Sol-Web3.js | Ansible | Performance tests |
-| SQL     | Tailwind   | Wagmi           | coral-xyz   | Envoy   | Security tests    |
+| SQL     | Tailwind   | Wagmi           | Coral-xyz   | Envoy   | Security tests    |
 
 [![Ethereum](https://raw.githubusercontent.com/s-damian/medias/main/technos/ethereum.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
