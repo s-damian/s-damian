@@ -41,11 +41,11 @@
 | Back-End| Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
 |:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
 | PHP     | TypeScript | SVM         | EVM             | Linux      | End-to-End tests  |
-| Laravel | React.js   | Rust        | Solidity        | Nginx      | Functional tests  |
-| Symfony | Next.js    | Anchor      | Hardhat         | MySQL      | Integration tests |
-| Rust    | Vue.js     | Programs    | Smart Contracts | MariaDB    | Unit tests        |
-| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | PostgreSQL | Performance tests |
-| SQL     | Tailwind   | Coral-xyz   | Wagmi           | Ansible    | Security tests    |
+| Laravel | React.js   | Rust        | Solidity        | Ansible    | Functional tests  |
+| Symfony | Next.js    | Anchor      | Hardhat         | Nginx      | Integration tests |
+| Rust    | Vue.js     | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
+| SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
 [![Ethereum](https://raw.githubusercontent.com/s-damian/medias/main/technos/ethereum.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
