@@ -38,14 +38,14 @@
 
 ### 📈 My Skills
 
-| Back-End| Front-End  | Solana      | Ethereum        | DevOps          | Testing           |
-|:-------:|:----------:|:-----------:|:---------------:|:----------------|:-----------------:|
-| PHP     | TypeScript | SVM         | EVM             | Linux & Debian  | End-to-End tests  |
-| Laravel | React.js   | Rust        | Solidity        | Nginx & Apache  | Functional tests  |
-| Symfony | Next.js    | Anchor      | Hardhat         | MySQL           | Integration tests |
-| Rust    | Vue.js     | Programs    | Smart Contracts | MariaDB         | Unit tests        |
-| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | PostgreSQL      | Performance tests |
-| SQL     | Tailwind   | Coral-xyz   | Wagmi           | Ansible & Envoy | Security tests    |
+| Back-End| Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
+|:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
+| PHP     | TypeScript | SVM         | EVM             | Linux      | End-to-End tests  |
+| Laravel | React.js   | Rust        | Solidity        | Nginx      | Functional tests  |
+| Symfony | Next.js    | Anchor      | Hardhat         | MySQL      | Integration tests |
+| Rust    | Vue.js     | Programs    | Smart Contracts | MariaDB    | Unit tests        |
+| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | PostgreSQL | Performance tests |
+| SQL     | Tailwind   | Coral-xyz   | Wagmi           | Ansible    | Security tests    |
 
 [![Ethereum](https://raw.githubusercontent.com/s-damian/medias/main/technos/ethereum.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
