@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web3 Developer - PHP / Laravel / Solidity / Rust
+    Web3 Developer - PHP / Laravel / Rust / Solidity
 </h1>
 
 <p align="center">
@@ -38,14 +38,14 @@
 
 ### 📈 My Skills
 
-| Back-End| Front-End  | Ethereum        | Solana      | DevOps          | Testing           |
-|:-------:|:----------:|:---------------:|:-----------:|:----------------|:-----------------:|
-| PHP     | TypeScript | EVM             | SVM         | Linux           | End-to-End tests  |
-| Laravel | React.js   | Solidity        | Rust        | Debian & Ubuntu | Functional tests  |
-| Symfony | Next.js    | Hardhat         | Anchor      | Nginx & Apache  | Integration tests |
-| Rust    | Vue.js     | Smart Contracts | Programs    | MySQL & MariaDB | Unit tests        |
-| Node.js | Nuxt.js    | Ethers.js       | Sol-Web3.js | PostgreSQL      | Performance tests |
-| SQL     | Tailwind   | Wagmi           | Coral-xyz   | Ansible & Envoy | Security tests    |
+| Back-End| Front-End  | Solana      | Ethereum        | DevOps          | Testing           |
+|:-------:|:----------:|:-----------:|:---------------:|:----------------|:-----------------:|
+| PHP     | TypeScript | SVM         | EVM             | Linux           | End-to-End tests  |
+| Laravel | React.js   | Rust        | Solidity        | Debian & Ubuntu | Functional tests  |
+| Symfony | Next.js    | Anchor      | Hardhat         | Nginx & Apache  | Integration tests |
+| Rust    | Vue.js     | Programs    | Smart Contracts | MySQL & MariaDB | Unit tests        |
+| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | PostgreSQL      | Performance tests |
+| SQL     | Tailwind   | Coral-xyz   | Wagmi           | Ansible & Envoy | Security tests    |
 
 [![Ethereum](https://raw.githubusercontent.com/s-damian/medias/main/technos/ethereum.webp)](https://github.com/s-damian)
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
