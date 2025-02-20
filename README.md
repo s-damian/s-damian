@@ -13,17 +13,11 @@
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
 </p>
 <p align="center">
-    Laravel developer, I also developed a <strong>Vanilla PHP Framework</strong> : [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>] 🐘
+    Laravel developer, I also developed a <strong>Vanilla PHP Framework</strong>: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>] 🐘
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / Blockchain / DevOps
 </p>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-damian&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-damian&layout=compact&theme=dark)
-
 
 <p align="center">
 <a href="https://www.damian-freelance.com/">
