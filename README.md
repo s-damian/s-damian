@@ -13,7 +13,7 @@
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
 <p align="center">
-    <strong>Software Developer</strong> passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
+    I'm passionate about innovation in <strong>Web</strong> and <strong>Blockchain</strong> technologies
 </p>
 
 <p align="center">
