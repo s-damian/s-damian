@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/s-damian">
-        <img src="https://raw.githubusercontent.com/s-damian/medias/main/s-damian-logo-web2-web3.webp" alt="Stephen Damian - Full Stack Developer">
-    </a>
+    Stephen Damian 👨🏻‍💻 Full-Stack Web & Back-End Blockchain
 </p>
 
 <p align="center">
