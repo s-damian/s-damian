@@ -15,9 +15,6 @@
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
-<p align="center">
-    100% custom development: Back-End / Front-End / Blockchain / DevOps
-</p>
 
 <p align="center">
 <a href="https://www.damian-freelance.com/">
