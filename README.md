@@ -13,7 +13,7 @@
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
 </p>
 <p align="center">
-    As a PHP Framework, I prefer <strong>Laravel</strong>. I also developed a <a href="https://github.com/s-damian/damian-php">PHP Framework</a> 🐘
+    I also developed a PHP Framework: <a href="https://github.com/s-damian/damian-php">Skeleton</a> <a href="https://github.com/s-damian/damian-php-fw">Kernel</a> 🐘
 </p>
 <p align="center">
     100% custom development: Back-End / Front-End / Blockchain / DevOps
