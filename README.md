@@ -15,6 +15,9 @@
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
+<p align="center">
+    <strong>Laravel</strong> expert, I have been using this Framework <strong>since 2015</strong> (version 5.1)
+</p>
 
 <p align="center">
 <a href="https://www.damian-freelance.com/">
