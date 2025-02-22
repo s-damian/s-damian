@@ -15,10 +15,7 @@
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
 <p align="center">
-    <strong>Laravel</strong> expert, working with it since <strong>2015</strong> (starting from Laravel 5.1)
-</p>
-<p align="center">
-    PHP and <strong>Laravel</strong> Expert - Working with Laravel since <strong>2015</strong>
+    <strong>PHP</strong> and <strong>Laravel</strong> Expert - Working with Laravel since <strong>2015</strong>
 </p>
 
 <p align="center">
