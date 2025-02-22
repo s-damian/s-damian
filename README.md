@@ -6,7 +6,7 @@
     Stephen Damian 👨🏻‍💻 <strong>Full-Stack Web</strong> & <strong>Back-End Blockchain</strong>
 </p>
 <p align="center">
-    <strong>PHP</strong> and <strong>Laravel</strong> expert - Working with Laravel <strong>since 2015</strong> 🐘
+    <strong>PHP</strong> and <strong>Laravel</strong> expert – Working with Laravel <strong>since 2015</strong> 🐘
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
