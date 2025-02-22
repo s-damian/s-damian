@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Stephen Damian 👨🏻‍💻 <strong>Full-Stack Web</strong> & <strong>Back-End Blockchain</strong>
+    Stephen Damian – <strong>Full-Stack Web</strong> & <strong>Back-End Blockchain</strong>
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
