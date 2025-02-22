@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Stephen Damian 👨🏻‍💻 Full-Stack Web & Back-End Blockchain
+    Stephen Damian 👨🏻‍💻 <strong>Full-Stack Web</strong> & <strong>Back-End Blockchain</strong>
 </p>
 
 <p align="center">
