@@ -16,7 +16,7 @@
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
 <p align="center">
-    ⚡ <strong>Laravel</strong> expert, working with it since <strong>2015</strong> (Laravel 5.1)
+    <strong>Laravel</strong> expert, working with it since <strong>2015</strong> (Laravel 5.1) 🐘
 </p>
 
 <p align="center">
