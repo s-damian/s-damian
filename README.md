@@ -37,7 +37,7 @@
 | PHP     | TypeScript | SVM         | EVM             | Linux      | End-to-End tests  |
 | Laravel | React.js   | Rust        | Solidity        | Ansible    | Functional tests  |
 | Symfony | Next.js    | Anchor      | Hardhat         | Nginx      | Integration tests |
-| Rust    | Vue.js     | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| MVC     | Vue.js     | Programs    | Smart Contracts | MySQL      | Unit tests        |
 | Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
 | SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
