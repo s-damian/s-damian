@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
 </a>
 <a href="https://github.com/s-damian">
-    <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/-s%2Ddamian-grey?style=flat-square&logo=github">
 </a>
 </p>
 
