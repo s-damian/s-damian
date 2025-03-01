@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/My%20Website-fr-green">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://x.com/StephenPHP">
     <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
 </a>
 <a href="https://github.com/s-damian">
-    <img src="https://img.shields.io/badge/-s\-damian-grey?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github">
 </a>
 </p>
 
