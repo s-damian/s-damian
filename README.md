@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/s-damian">
+<a href="https://github.com/s-damian" style="user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
     <img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
