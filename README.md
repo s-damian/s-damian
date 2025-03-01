@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://x.com/StephenPHP">
-    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+    <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
 </a>
 <a href="https://github.com/s-damian">
     <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github">
