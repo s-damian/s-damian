@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
-    <img src="https://img.shields.io/badge/in-Stephen%20Damian-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/in-Damian-blue?style=flat-square">
 </a>
 <a href="https://x.com/StephenPHP">
     <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
