@@ -16,20 +16,14 @@
 </p>
 
 <p align="center">
-<a href="https://www.damian-freelance.com/">
-    <img src="https://img.shields.io/badge/My%20Website-en-green">
-</a>
-<a href="https://www.damian-freelance.fr/">
-    <img src="https://img.shields.io/badge/My%20Website-fr-green">
+<a href="https://github.com/s-damian">
+    <img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github">
 </a>
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://x.com/StephenPHP">
     <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
-</a>
-<a href="https://github.com/s-damian">
-    <img src="https://img.shields.io/badge/-s--damian-grey?style=flat-square&logo=github">
 </a>
 </p>
 
