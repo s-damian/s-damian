@@ -25,6 +25,9 @@
 <a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+<a href="https://x.com/StephenPHP">
+    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+</a>
 <a href="https://github.com/s-damian">
     <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">
 </a>
