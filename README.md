@@ -18,11 +18,9 @@
 <p align="center">
 <a href="https://github.com/s-damian">
     <img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/stephen-damian/">
+</a><a href="https://www.linkedin.com/in/stephen-damian/">
     <img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square">
-</a>
-<a href="https://x.com/StephenPHP">
+</a><a href="https://x.com/StephenPHP">
     <img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x">
 </a>
 </p>
