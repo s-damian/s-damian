@@ -27,7 +27,7 @@
 | Laravel | React.js   | Rust        | Solidity        | Ansible    | Functional tests  |
 | Symfony | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
 | MVC     | Next.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
-| Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
+| POO     | Nuxt.js    | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
 | SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
 ### 🐘 Open Source PHP Packages
