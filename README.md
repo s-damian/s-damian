@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web2 & Web3 Developer - PHP / Rust / Solidity
+    Web2 & Web3 Developer - PHP / Laravel / Rust
 </h1>
 
 <p align="center">
@@ -25,8 +25,8 @@
 |:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
 | PHP     | TypeScript | SVM         | EVM             | Linux      | End-to-End tests  |
 | Laravel | React.js   | Rust        | Solidity        | Ansible    | Functional tests  |
-| Symfony | Next.js    | Anchor      | Hardhat         | Nginx      | Integration tests |
-| MVC     | Vue.js     | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| Symfony | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
+| MVC     | Next.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
 | Node.js | Nuxt.js    | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
 | SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
