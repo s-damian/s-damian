@@ -6,7 +6,7 @@
     Stephen Damian – <strong>Full-Stack Web</strong> & <strong>Back-End Blockchain</strong>
 </p>
 <p align="center">
-    <em>I'm convinced that the global financial system will soon be rebuilt on blockchain technology.</em>
+    <blockquote>I'm convinced that the global financial system will soon be rebuilt on blockchain technology.</blockquote>
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
