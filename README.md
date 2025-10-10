@@ -71,11 +71,12 @@
 | NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
-### 📊 Web Server Automation
+### 🐧 Linux
 
-| Name | URL |
-|:---:|:---:|
-| Ansible Playbook | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
+| Name | Description | URL |
+|:---:|:---:|:---:|
+| Ansible Playbook | Web Server Automation | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
+| SSH over SSL | SSH Tunneling | [SSH over SSL (Debian / Ubuntu)](https://github.com/s-damian/ssh-over-ssl) |
 
 ### 🎓 Best Practices
 
