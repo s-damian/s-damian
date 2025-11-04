@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Stephen Damian - <strong>Web2 developer</strong> & <strong>Web3 developer</strong>
+    Stephen Damian - Web2 & Web3 developer
 </p>
 <p align="center">
     <em>I'm convinced that the global financial system will soon be rebuilt on blockchain technology</em>
