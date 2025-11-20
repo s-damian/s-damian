@@ -6,7 +6,7 @@
     Stephen Damian - Web2 & Web3 developer
 </p>
 <p align="center">
-    <em>I'm convinced that the global financial system will soon be rebuilt on blockchain technology</em>
+    Deep interest in blockchain cryptographic standards (BIP32, BIP39, BIP44, etc.).
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
