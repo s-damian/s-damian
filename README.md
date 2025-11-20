@@ -6,7 +6,7 @@
     Stephen Damian - Web2 & Web3 developer
 </p>
 <p align="center">
-    Deep interest in blockchain cryptographic standards: BIP32 / BIP39 / BIP44
+    Deep interest in blockchain cryptographic standards (BIP32, BIP39, BIP44)
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
