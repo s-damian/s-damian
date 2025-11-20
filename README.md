@@ -22,6 +22,17 @@
 <a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://x.com/StephenPHP"><img src="https://img.shields.io/badge/-@StephenPHP-black?style=flat-square&logo=x"></a>
 </p>
 
+### 📈 My Skills
+
+| Back-End| Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
+|:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
+| PHP     | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
+| Laravel | Vue.js     | Rust        | Solidity        | Ansible    | Functional tests  |
+| Symfony | Next.js    | Anchor      | Hardhat         | Nginx      | Integration tests |
+| MVC     | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| POO     | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
+| SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
+
 ### 🐘 Open Source PHP Packages
 
 <table>
@@ -59,17 +70,6 @@
 | Solana Wallet | Rust 🦀 | Solana | - | [Solana BIP39 Wallet](https://github.com/s-damian/rust-solana-wallet) |
 | NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
-
-### 📈 My Skills
-
-| Back-End| Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
-|:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
-| PHP     | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
-| Laravel | Vue.js     | Rust        | Solidity        | Ansible    | Functional tests  |
-| Symfony | Next.js    | Anchor      | Hardhat         | Nginx      | Integration tests |
-| MVC     | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
-| POO     | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
-| SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
 ### 🐧 Linux
 
