@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-    Web3 developer & PHP / Laravel developer since 2015 🐘
-</p>
-<p align="center">
-    Deep interest in blockchain cryptographic standards: BIP32/39/44/etc.
+    Web3 developer & Laravel developer since 2015 🐘
 </p>
 <p align="center">
     I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a> 🦀
+</p>
+<p align="center">
+    Deep interest in blockchain cryptographic standards: BIP32/39/44/etc.
 </p>
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
