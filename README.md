@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Stephen Damian - Web2 & Web3 developer
+    Web2 & Web3 developer
 </p>
 <p align="center">
     🐘 PHP / Laravel developer since 2015
