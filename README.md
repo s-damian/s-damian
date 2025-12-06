@@ -94,7 +94,7 @@
 
 | Laptop | CPU | OS | Kernel | URL |
 |:---:|:---:|:---:|:---:|:---:|
-| ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8 → 6.14 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
+| ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8-6.14 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
 
 [![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
 [![Rust](https://raw.githubusercontent.com/s-damian/medias/main/technos/rust.webp)](https://github.com/s-damian)
