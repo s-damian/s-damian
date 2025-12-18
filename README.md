@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    🐘 PHP / Laravel developer since 2015
+    🐘 PHP Open Source Developer | 100% Handcrafted Code
 </p>
 <p align="center">
     🦀 I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
