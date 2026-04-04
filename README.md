@@ -96,7 +96,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8-6.17 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
 
-[![PHP](https://raw.githubusercontent.com/s-damian/medias/main/technos/php.webp)](https://github.com/s-damian)
+[![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
