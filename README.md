@@ -26,8 +26,8 @@
 | PHP     | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
 | Laravel | Next.js    | Solana CLI  | Solidity        | Ansible    | Functional tests  |
 | Symfony | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
-| C++     | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
-| Rust    | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
+| Rust    | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| C++     | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
 | SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
 ### 🐘 Open Source PHP Packages
