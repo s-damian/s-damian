@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web Developer - PHP / Laravel / Blockchain
+    Developer - PHP / Laravel / Python
 </h1>
 
 <p align="center">
