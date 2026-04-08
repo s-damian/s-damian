@@ -1,5 +1,5 @@
 <h1 align="center">
-    Developer - PHP / Laravel / Python
+    PHP / Laravel / Python Developer
 </h1>
 
 <p align="center">
