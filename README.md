@@ -1,5 +1,5 @@
 <h1 align="center">
-    PHP / Laravel / Python Developer
+    PHP / Laravel / JS Developer
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 | PHP     | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
 | Laravel | Next.js    | Rust        | Solidity        | Ansible    | Functional tests  |
 | Symfony | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
-| Python  | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| Rust    | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
 | Node.js | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
 | SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
