@@ -1,5 +1,5 @@
 <h1 align="center">
-    Developer | PHP & Laravel Expert
+    Web Developer | PHP | Laravel | JS
 </h1>
 
 <p align="center">
