@@ -1,5 +1,5 @@
 <h1 align="center">
-    Backend Developer - PHP / Laravel
+    Back-End Developer - PHP / Laravel
 </h1>
 
 <p align="center">
@@ -21,14 +21,14 @@
 
 ### 📈 My Skills
 
-| Back-End| Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
-|:-------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
-| PHP     | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
-| Laravel | Next.js    | Rust        | Solidity        | Ansible    | Functional tests  |
-| Symfony | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
-| Rust    | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
-| Node.js | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
-| SQL     | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
+| Back-End | Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
+|:--------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
+| PHP      | React.js   | SVM         | EVM             | Linux      | End-to-End tests  |
+| Laravel  | Next.js    | Rust        | Solidity        | Ansible    | Functional tests  |
+| Symfony  | Vue.js     | Anchor      | Hardhat         | Nginx      | Integration tests |
+| Rust     | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
+| Node.js  | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
+| SQL      | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
 
 ### 🐘 Open Source PHP Packages
 
