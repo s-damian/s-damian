@@ -12,7 +12,7 @@
     🦀 I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
 </p>
 <p align="center">
-    Deep interest in cryptography / decentralization / blockchain
+    Deep interest in cryptography and decentralization
 </p>
 
 <p align="center">
