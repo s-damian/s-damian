@@ -12,14 +12,14 @@
     🦀 I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: <a href="https://github.com/s-damian/rust-solana-wallet">Solana Wallet</a>
 </p>
 <p align="center">
-    Deep interest in blockchain cryptographic standards: BIP32/39/44/etc.
+    Deep interest in Cryptography / Decentralization / Blockchain
 </p>
 
 <p align="center">
 <a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US">
 </p>
 
-### 📈 My Skills
+### 📈 Skills
 
 | Back-End | Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
 |:--------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
