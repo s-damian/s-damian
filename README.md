@@ -1,5 +1,5 @@
 <h1 align="center">
-    Web Developer - PHP / Laravel / JS
+    PHP / Laravel Developer - CRM & ERP Expert
 </h1>
 
 <p align="center">
