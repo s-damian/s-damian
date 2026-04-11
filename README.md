@@ -1,5 +1,5 @@
 <h1 align="center">
-    Back-End Developer - PHP / Laravel
+    Backend Developer - PHP / Laravel
 </h1>
 
 <p align="center">
