@@ -1,5 +1,5 @@
 <h1 align="center">
-    Backend Developer - PHP / Laravel
+    Full-Stack Developer - Back-End Expert
 </h1>
 
 <p align="center">
