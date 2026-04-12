@@ -1,5 +1,5 @@
 <h1 align="center">
-    Fullstack Developer - Backend Expert
+    Full Stack Developer - Backend Expert
 </h1>
 
 <p align="center">
