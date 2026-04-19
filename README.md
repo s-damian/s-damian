@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en_US">
+<a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US">
 </p>
 
 ### 📈 Skills
