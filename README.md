@@ -22,7 +22,7 @@
 ### 📈 Skills
 
 | Back-End | Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
-|:--------:|:----------:|:-----------:|:---------------:|:-----------|:-----------------:|
+|:--------:|:----------:|:-----------:|:---------------:|:----------:|:-----------------:|
 | PHP      | React.js   | Rust        | Solidity        | Linux      | End-to-End tests  |
 | Laravel  | Next.js    | Anchor      | Hardhat         | Ansible    | Functional tests  |
 | Symfony  | Vue.js     | SVM         | EVM             | Nginx      | Integration tests |
