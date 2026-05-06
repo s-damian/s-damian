@@ -1,5 +1,5 @@
 <h1 align="center">
-    Senior Full Stack Developer
+    Senior Backend Developer
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 📈 Skills
 
-| Back-End | Front-End  | Solana      | Ethereum        | DevOps     | Testing           |
+| Backend | Frontend  | Solana      | Ethereum        | DevOps     | Testing           |
 |:--------:|:----------:|:-----------:|:---------------:|:----------:|:-----------------:|
 | PHP      | React.js   | Rust        | Solidity        | Linux      | End-to-End tests  |
 | Laravel  | Next.js    | Anchor      | Hardhat         | Ansible    | Functional tests  |
