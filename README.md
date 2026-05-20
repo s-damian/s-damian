@@ -21,14 +21,14 @@
 
 ### 📈 Skills
 
-| Backend | Frontend  | Solana      | Ethereum        | DevOps     | Testing           |
-|:--------:|:----------:|:-----------:|:---------------:|:----------:|:-----------------:|
-| PHP      | React.js   | Rust        | Solidity        | Linux      | End-to-End tests  |
-| Laravel  | Next.js    | Anchor      | Hardhat         | Ansible    | Functional tests  |
-| Symfony  | Vue.js     | SVM         | EVM             | Nginx      | Integration tests |
-| Rust     | Nuxt.js    | Programs    | Smart Contracts | MySQL      | Unit tests        |
-| Node.js  | TypeScript | Sol-Web3.js | Ethers.js       | MariaDB    | Performance tests |
-| SQL      | Tailwind   | Coral-xyz   | Wagmi           | PostgreSQL | Security tests    |
+| Backend  | Frontend   | DevOps     | Testing           | Blockchain |
+|:--------:|:----------:|:----------:|:-----------------:|:----------:|
+| PHP      | React.js   | Linux      | End-to-End tests  | Ethereum   |
+| Laravel  | Next.js    | Ansible    | Functional tests  | Solidity   |
+| Symfony  | Vue.js     | Nginx      | Integration tests | Hardhat    |
+| Rust     | Nuxt.js    | MySQL      | Unit tests        | Solana     |
+| Node.js  | TypeScript | MariaDB    | Performance tests | Rust       |
+| SQL      | Tailwind   | PostgreSQL | Security tests    | Anchor     |
 
 ### 🐘 Open Source PHP Packages
 
