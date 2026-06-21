@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    🐘 PHP & Open Source Developer | Handcrafted Code
+    🐘 PHP & Open Source Developer | Laravel since 2015 (v5.1 to v13)
 </p>
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
