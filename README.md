@@ -6,7 +6,7 @@
     🐘 PHP & Open Source Developer | Complex legacy systems
 </p>
 <p align="center">
-    Specialized in Backend architecture, Linux infrastructure and deployment automation.
+    Specialized in Backend architecture, Linux infrastructure and deployment automation
 </p>
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
