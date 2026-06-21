@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-    🐘 PHP & Open Source Developer | Laravel since 2015 (v5.1 to v13)
+    🐘 PHP & Open Source Developer | Laravel since 2015 (v5.1 to last version)
+</p>
+<p align="center">
+    Specialized in PHP applications, Backend architecture, Linux infrastructure and deployment automation.
 </p>
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
@@ -12,7 +15,7 @@
     🦀 I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: [<a href="https://github.com/s-damian/rust-solana-wallet">BIP39 Wallet</a>]
 </p>
 <p align="center">
-    Deep interest in cryptography and decentralization
+    Deep interest in cryptography and security
 </p>
 
 <p align="center">
