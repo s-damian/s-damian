@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    🐘 PHP & Open Source Developer | Laravel since 2015 (v5.1 to last version)
+    🐘 PHP & Open Source Developer | Complex legacy systems
 </p>
 <p align="center">
-    Specialized in PHP applications, Backend architecture, Linux infrastructure and deployment automation.
+    Specialized in Backend architecture, Linux infrastructure and deployment automation.
 </p>
 <p align="center">
     Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
