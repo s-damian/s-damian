@@ -1,5 +1,5 @@
 <h1 align="center">
-    Full Stack Developer - PHP / Laravel / DevOps / Vue.js
+    Full Stack Developer - PHP / Laravel / Vue.js
 </h1>
 
 <p align="center">
