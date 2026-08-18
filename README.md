@@ -1,5 +1,5 @@
 <h1 align="center">
-    Full Stack Developer - PHP / Laravel / Vue.js
+    Senior Software Developer
 </h1>
 
 <p align="center">
