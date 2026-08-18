@@ -1,5 +1,5 @@
 <h1 align="center">
-    Senior Backend Developer
+    Full Stack Developer - PHP / Laravel / DevOps / Vue.js
 </h1>
 
 <p align="center">
@@ -26,10 +26,10 @@
 
 | Backend  | Frontend   | DevOps     | Testing           | Solana      | Ethereum        |
 |:--------:|:----------:|:----------:|:-----------------:|:-----------:|:---------------:|
-| PHP      | React.js   | Linux      | End-to-End tests  | Rust        | Solidity        |
-| Laravel  | Next.js    | Ansible    | Functional tests  | Anchor      | Hardhat         |
-| Symfony  | Vue.js     | Nginx      | Integration tests | SVM         | EVM             |
-| Rust     | Nuxt.js    | MySQL      | Unit tests        | Programs    | Smart Contracts |
+| PHP      | Vue.js     | Linux      | End-to-End tests  | Rust        | Solidity        |
+| Laravel  | Nuxt.js    | Ansible    | Functional tests  | Anchor      | Hardhat         |
+| Symfony  | React.js   | Nginx      | Integration tests | SVM         | EVM             |
+| Rust     | Next.js    | MySQL      | Unit tests        | Programs    | Smart Contracts |
 | Node.js  | TypeScript | MariaDB    | Performance tests | Sol-Web3.js | Ethers.js       |
 | SQL      | Tailwind   | PostgreSQL | Security tests    | Coral-xyz   | Wagmi           |
 
