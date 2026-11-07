@@ -6,20 +6,20 @@
     🐘 PHP & Open Source Developer | Complex legacy systems
 </p>
 <p align="center">
-    Specialized in Backend architecture, Linux infrastructure and deployment automation
+    Specialized in backend architecture, Linux infrastructure, and deployment automation
 </p>
 <p align="center">
-    Created a <strong>Custom PHP Framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
+    Created a <strong>custom PHP framework</strong> from scratch: [<a href="https://github.com/s-damian/damian-php">Skeleton</a>] [<a href="https://github.com/s-damian/damian-php-fw">Kernel</a>]
 </p>
 <p align="center">
-    🦀 I'm enjoying developing a <strong>Solana Wallet</strong> in Rust: [<a href="https://github.com/s-damian/rust-solana-wallet">BIP39 Wallet</a>]
+    🦀 Currently building a <strong>Solana wallet</strong> in Rust: [<a href="https://github.com/s-damian/rust-solana-wallet">BIP39 Wallet</a>]
 </p>
 <p align="center">
     Deep interest in cryptography and security
 </p>
 
 <p align="center">
-<a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US">
+<a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a>
 </p>
 
 ### 📈 Skills
@@ -78,6 +78,12 @@
 | Ansible Playbook | Web Server Automation | [Deploy Web Server (Nginx / Apache)](https://github.com/s-damian/ansible-web-server-debian) |
 | SSH over SSL | SSH Tunneling | [SSH over SSL (Debian / Ubuntu)](https://github.com/s-damian/ssh-over-ssl) |
 
+### 💻 Linux Laptop Compatibility
+
+| Laptop | CPU | OS | Kernel | URL |
+|:---:|:---:|:---:|:---:|:---:|
+| ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8-6.17 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
+
 ### 🎓 Best Practices
 
 | Name | Language | URL |
@@ -90,14 +96,8 @@
 
 | Framework   | Language | URL |
 |:-----------:|:--------:|:---:|
-| Symfony 6   | PHP 🐘   | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
+| Symfony 6.2 | PHP 🐘   | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
 | Phoenix 1.7 | Elixir   | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
-
-### 💻 Make laptops compatible with Linux
-
-| Laptop | CPU | OS | Kernel | URL |
-|:---:|:---:|:---:|:---:|:---:|
-| ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8-6.17 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
 
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
