@@ -92,13 +92,6 @@
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
-### 📖 CRUD Examples
-
-| Framework   | Language | URL |
-|:-----------:|:--------:|:---:|
-| Symfony 6.2 | PHP 🐘   | [CRUD with Symfony 6.2](https://github.com/s-damian/symfony-crud-example) |
-| Phoenix 1.7 | Elixir   | [CRUD with Phoenix 1.7](https://github.com/s-damian/phoenix-crud-example) |
-
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
