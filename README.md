@@ -22,7 +22,7 @@
 <a href="https://github.com/s-damian"><img src="https://img.shields.io/badge/-s--damian-black?style=flat-square&logo=github"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://raw.githubusercontent.com/s-damian/medias/main/space/space-white-3.png"></a><a href="https://www.linkedin.com/in/stephen-damian/?locale=en-US"><img src="https://img.shields.io/badge/in-s--damian-blue?style=flat-square"></a>
 </p>
 
-### 📈 Skills
+### 🛠️ Tech Stack
 
 | Backend  | Frontend   | DevOps     | Testing           | Solana      | Ethereum        |
 |:--------:|:----------:|:----------:|:-----------------:|:-----------:|:---------------:|
@@ -71,7 +71,7 @@
 | NFT Ticketing [SOL] | Rust 🦀 | Solana | Anchor | [Anchor NFT Ticketing](https://github.com/s-damian/anchor-nft-ticketing) |
 | NFT Ticketing [ETH] | Solidity 💎 | Ethereum | Hardhat | [Hardhat NFT Ticketing](https://github.com/s-damian/hardhat-nft-ticketing) |
 
-### 🐧 Linux
+### 🐧 Linux & Infrastructure
 
 | Name | Description | URL |
 |:---:|:---:|:---:|
@@ -84,7 +84,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | ThinkPad T14 Gen 5 | AMD | Ubuntu / Mint | 6.8-6.17 | [ThinkPad T14 Gen 5 (AMD)](https://github.com/s-damian/thinkpad-t14-gen-5-amd-linux) |
 
-### 🎓 Best Practices
+### 📈 PHP Best Practices
 
 | Name | Language | URL |
 |:---:|:---:|:---:|
@@ -92,11 +92,10 @@
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
+[![PHP](https://raw.githubusercontent.com/s-damian/medias/main/technos/php.webp)](https://github.com/s-damian)
 [![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
 [![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
-[![Solana](https://raw.githubusercontent.com/s-damian/medias/main/technos/solana.webp)](https://github.com/s-damian)
-[![Ethereum](https://raw.githubusercontent.com/s-damian/medias/main/technos/ethereum.webp)](https://github.com/s-damian)
-[![React JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
-[![Vue JS](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
+[![React.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
+[![Vue.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
