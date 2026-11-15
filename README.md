@@ -92,10 +92,10 @@
 | Design Patterns | PHP 🐘 | [Design Patterns - Examples with PHP 8](https://github.com/s-damian/design-patterns-php) |
 | SOLID | PHP 🐘 | [SOLID - Examples with PHP 8](https://github.com/s-damian/solid-php) |
 
-[![PHP](https://raw.githubusercontent.com/s-damian/medias/main/technos/php.webp)](https://github.com/s-damian)
-[![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)](https://github.com/s-damian)
-[![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
-[![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
-[![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
-[![Vue.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
-[![React.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
+![PHP](https://raw.githubusercontent.com/s-damian/medias/main/technos/php.webp)
+![Laravel](https://raw.githubusercontent.com/s-damian/medias/main/technos/laravel.webp)
+![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)
+![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)
+![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)
+![Vue.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)
+![React.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)
