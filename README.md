@@ -97,5 +97,5 @@
 [![Linux](https://raw.githubusercontent.com/s-damian/medias/main/technos/linux.webp)](https://github.com/s-damian)
 [![MariaDB](https://raw.githubusercontent.com/s-damian/medias/main/technos/mariadb.webp)](https://github.com/s-damian)
 [![PostgreSQL](https://raw.githubusercontent.com/s-damian/medias/main/technos/postgresql.webp)](https://github.com/s-damian)
-[![React.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
 [![Vue.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/vue-js.webp)](https://github.com/s-damian)
+[![React.js](https://raw.githubusercontent.com/s-damian/medias/main/technos/react-js.webp)](https://github.com/s-damian)
